@@ -1,0 +1,1226 @@
+Order ID,Order Date,Region,Sales Rep,Product,Qty,Unit Price,Status
+ORD-00606,2025/05/11,East,Chloe Wong,Laptop Air 13,1,944.24 ,Completed
+ORD-00079,10-Jul-2025,East,Ben Lee,Laptop Air 13,2,893.87,Completed
+ORD-00162,04/30/2025,East,Emma Ng,USB-C Hub,1,45.47,Completed
+ORD-00942,30/08/2025,EAST,Ben Lee,Laptop Pro 14,2,"$1,358.66",Completed
+ORD-00692,06/14/2025,North,Chloe Wong,USB-C Hub,,48.73,Completed
+ORD-01030,2025-08-08,East,Ben Lee,Laptop Air 13,1,904.33,Completed
+ORD-00206,17-Oct-2025,North  ,Alice Tan,laptop stand,3,42.07,Completed
+ORD-00797,07/02/2025,North,Chloe Wong,Laptop Stand,3,39.83,Pending
+ORD-00411,2025-09-25,North,Emma Ng,Laptop Air 13,1,865.01,Completed
+ORD-00372,2025/02/17,East,Ben Lee,Webcam HD,2,82.70,Completed
+ORD-00026,17/03/2025,East,Alice Tan,Webcam HD,1,71.76,Completed
+ORD-00610,18-Mar-2025,South,Emma Ng,Webcam HD,2,74.69,Completed
+ORD-01002,08/21/2025,South,Daniel Lim,Mechanical Keyboard,2,110.54,Completed
+ORD-00864,09/08/2025,West,BEN LEE,4K Monitor,1,403.62,Completed
+ORD-01152,23/03/2025,East,Alice Tan,Laptop Pro 14,1,USD 1363.51,Completed
+ORD-01179,09/28/2025,South,Ben Lee,Laptop Air 13,5,857.25,Completed
+ORD-01036,06/01/2025,East  ,Alice Tan,4K Monitor,2,375.40,Completed
+ORD-00893,12/05/2025,South,Chloe Wong,Laptop Air 13,5,982.64,Completed
+ORD-00731,2025/02/13,West,Ben Lee,Wireless Mouse,1,USD 31.42,Completed
+ORD-00807,2025-04-29,North,Alice Tan,Laptop Air 13,1,849.94,Completed
+ORD-01013,09/12/2025,North,daniel lim,USB-C Hub,3,46.97,Completed
+ORD-00602,03/29/2025,South,Ben Lee,Webcam HD,1,72.97,Pending
+ORD-00862,2025-02-09,West,Daniel Lim,Laptop Pro 14,1,1302.04,Completed
+ORD-00389,12/31/2025,West,Ben Lee,Mechanical Keyboard,1,$127.38,Completed
+ORD-00513,2025/07/06,South,Emma Ng,Laptop Air 13,5,978.68,Pending
+ORD-00483,13-May-2025,West,Ben Lee,wireless mouse,1,USD 26.95,Completed
+ORD-00884,11/09/2025,South,Alice Tan,Webcam HD,1,81.30,Completed
+ORD-00423,09/19/2025,North,Emma Ng,Webcam HD,1,84.57 ,Completed
+ORD-00600,2025/07/04,East,Chloe Wong,Laptop Pro 14,,1220.83,Completed
+ORD-00271,06/06/2025,East,Daniel Lim,Wireless Mouse,1,30.88,Completed
+ORD-01140,03/12/2025,East,Daniel Lim,4K Monitor,5,438.84,Completed
+ORD-01050,2025-06-02,East,Ben Lee,Laptop Pro 14,1,1247.57,Completed
+ORD-01139,2025-06-24,East,Emma Ng,Laptop Air 13,1,950.45,Completed
+ORD-00056,2025/04/17,South,EMMA NG,USB-C Hub,2,50.57,Completed
+ORD-00455,2025-06-21,North,Ben Lee,Laptop Stand,1,35.91 ,Completed
+ORD-00522,17/06/2025,East,Daniel Lim,4K Monitor,2,365.84,Completed
+ORD-00424,01-May-2025,West,Daniel Lim,Webcam HD,5,80.98,Completed
+ORD-00190,2025/01/06,South,Daniel Lim,Laptop Air 13,,849.02,Completed
+ORD-00781,26/01/2025,East,Emma Ng,4K Monitor,1,387.05,Completed
+ORD-00660,08-Oct-2025,North,Chloe Wong,Webcam HD,1,$73.17,Completed
+ORD-00880,20/06/2025,South,Daniel Lim,Laptop Pro 14,1,1249.45,Completed
+ORD-00544,2025/03/01,West,Emma Ng,Laptop Pro 14,1,1339.48,Completed
+ORD-00724,2025/02/10,South,Ben Lee,Laptop Air 13,2,968.12,Refunded
+ORD-00725,2025-03-09,West  ,Ben Lee,Mechanical Keyboard,2,115.68,Completed
+ORD-00224,2025-04-30,North,Daniel Lim,Mechanical Keyboard,1,129.73,Completed
+ORD-00484,11/24/2025,South,Emma Ng,Laptop Air 13,2,946.91,Completed
+ORD-00303,2025/07/28,West,Daniel Lim,Webcam HD,10,81.06,Completed
+ORD-00245,27/12/2025,South,Daniel Lim,Laptop Pro 14,5,"$1,413.95",Completed
+ORD-00716,22/03/2025,North,Alice Tan,Laptop Pro 14,1,1263.99,Completed
+ORD-00260,2025/04/24,West,Alice Tan,USB-C Hub,2,$46.74,Completed
+ORD-00776,30/06/2025,west,Ben Lee,4K Monitor,3,430.23,Completed
+ORD-01023,2025-12-02,North  ,Chloe Wong,4k monitor,2,USD 419.29,Completed
+ORD-00421,2025-07-14,NORTH,Emma Ng,Mechanical Keyboard,10,122.45,Completed
+ORD-00474,17-Sep-2025,East,Emma Ng,Mechanical Keyboard,2,118.38,Completed
+ORD-00353,09/09/2025,North,Alice Tan,USB-C Hub,3,USD 44.29,Completed
+ORD-01091,29-May-2025,West,Emma Ng,USB-C Hub,5,49.98,Completed
+ORD-00991,11/10/2025,South,Alice Tan,Laptop Pro 14,1,"$1,408.66",Completed
+ORD-01010,2025-11-13,West,Chloe Wong,Webcam HD,1,79.97,Completed
+ORD-00280,01/31/2025,West,Daniel Lim,wireless mouse,1,28.51,Pending
+ORD-00057,28-Dec-2025,South,Emma Ng,4K Monitor,10,364.78,Completed
+ORD-00638,2025/05/26,South,Ben Lee,Webcam HD,10,$72.24,Completed
+ORD-01186,12/04/2025,South,Ben Lee,USB-C Hub,1,50.28,Completed
+ORD-01051,01-May-2025,WEST,ben lee,Laptop Stand,2,USD 37.21,Completed
+ORD-01117,2025/12/14,East,Alice Tan,Mechanical Keyboard,1,$108.06,Completed
+ORD-00858,06/19/2025,SOUTH,Chloe Wong,Laptop Air 13,1,921.47,Completed
+ORD-00477,29-Jan-2025,West,CHLOE WONG,Mechanical Keyboard,5,110.62,Refunded
+ORD-00726,19/02/2025,East,Alice Tan,Laptop Pro 14,1,1368.19,Completed
+ORD-01076,22/03/2025,North,Alice Tan,USB-C Hub,2,48.97,Completed
+ORD-00294,02/22/2025,East,Alice Tan,USB-C Hub,5,46.43,Refunded
+ORD-00395,21-Nov-2025,West,Emma Ng,Mechanical Keyboard,1,119.57 ,Completed
+ORD-00764,17/02/2025,East,Ben Lee,4K Monitor,2,415.87,Completed
+ORD-00254,2025-12-02,East,Emma Ng,Laptop Stand,10,35.39,Completed
+ORD-00566,2025/08/14,South,Daniel Lim,Laptop Stand,5,41.53 ,Refunded
+ORD-00286,08/21/2025,East,alice tan,Mechanical Keyboard,10,USD 124.16,Refunded
+ORD-00173,30/07/2025,East,chloe wong,Laptop Pro 14,1,1306.64,Completed
+ORD-00019,2025-10-05,West,Emma Ng,Laptop Pro 14,3,1183.95,Completed
+ORD-01067,2025/09/04,South,Alice Tan,Laptop Stand,2,35.14,Completed
+ORD-00059,2025/09/14,North,Chloe Wong,Laptop Stand,10,$35.73,Pending
+ORD-01100,2025/11/28,West,Daniel Lim,Mechanical Keyboard,5,$124.99,Completed
+ORD-00261,2025/06/06,East,Ben Lee,4K Monitor,,430.56,Completed
+ORD-00232,03/28/2025,West,Ben Lee,Webcam HD,5,78.94,Completed
+ORD-00867,30/08/2025,north,Emma Ng,Laptop Stand,10,36.46 ,Completed
+ORD-00549,08/05/2025,West,Alice Tan,Mechanical Keyboard,,113.47,Completed
+ORD-00324,2025/07/15,East,Ben Lee,Mechanical Keyboard,,117.23 ,Completed
+ORD-00990,2025-04-02,North,Ben Lee,Mechanical Keyboard,1,128.77,Completed
+ORD-00155,2025-08-30,North,Emma Ng,USB-C Hub,2,50.77 ,Completed
+ORD-00922,10/08/2025,West,Emma Ng,4K Monitor,1,$432.94,Completed
+ORD-00913,26-Jun-2025,West,Daniel Lim,Wireless Mouse,3,29.14,Completed
+ORD-00762,27/01/2025, East ,Emma Ng,4K Monitor,1,367.94,Completed
+ORD-00747,08-Mar-2025,South,Emma Ng,Laptop Stand,3,36.56,Completed
+ORD-01200,03-Nov-2025,East,Emma Ng,Webcam HD,5,84.84,Completed
+ORD-00308,2025-05-29,West,Chloe Wong,Laptop Air 13,2,826.76,Completed
+ORD-00806,23/12/2025,south,Emma Ng,Wireless Mouse,5,30.17,Completed
+ORD-00298,12/06/2025,South,Emma Ng,USB-C Hub,1,49.20,Completed
+ORD-01078,12/05/2025,West,Emma Ng,Wireless Mouse,10,28.06,Completed
+ORD-00719,2025/02/17,West,Ben Lee,Webcam HD,1,82.84,Pending
+ORD-00364,23-Jan-2025,SOUTH,alice tan,Wireless Mouse,1,31.17,Refunded
+ORD-00025,2025/05/15,West,alice tan,Wireless Mouse,10,29.30,Completed
+ORD-00139,09/21/2025,East,Emma Ng,Wireless Mouse,3,31.50,Refunded
+ORD-00250,2025/09/01,West,Alice Tan,USB-C Hub,10,47.03,Pending
+ORD-00905,17/12/2025,West,Alice Tan,Laptop Stand,2,41.31,Completed
+ORD-00630,16-Jun-2025,East,DANIEL LIM,Webcam HD,1,76.35,Completed
+ORD-00952,2025/10/09,East,CHLOE WONG,Laptop Stand,1,40.31,Completed
+ORD-00274,2025/07/14,South,Alice Tan,Laptop Air 13,2,894.40,Completed
+ORD-00265,2025/12/10,South,Daniel Lim,Mechanical Keyboard,2,127.22,Completed
+ORD-01042,26-Apr-2025,South,Ben Lee,Laptop Stand,1,35.43,Completed
+ORD-00819,26/01/2025,South,Daniel Lim,USB-C Hub,1,50.52 ,Completed
+ORD-00478,2025-08-16,West,Daniel Lim,Webcam HD,10,75.66,Completed
+ORD-00648,07/12/2025,East,alice tan,Webcam HD,5,80.75,Completed
+ORD-00467,2025-08-29,North,DANIEL LIM,4K Monitor,10,$408.65,Completed
+ORD-00976,13-Aug-2025,South  ,Emma Ng,Laptop Stand,5,35.60,Completed
+ORD-00399,06/28/2025,East,ALICE TAN,Laptop Pro 14,1,1390.92 ,Pending
+ORD-00221,2025-12-02,West,Chloe Wong,Webcam HD,2,USD 76.18,Refunded
+ORD-01079,01/11/2025,East,Emma Ng,USB-C Hub,3,53.18,Completed
+ORD-00081,08/01/2025, East ,Ben Lee,Laptop Air 13,10,919.79,Completed
+ORD-00947,19-Feb-2025,SOUTH,Ben Lee,Laptop Stand,10,$40.94,Completed
+ORD-00498,2025/11/15,West,Ben Lee,Laptop Air 13,1,927.96,Completed
+ORD-01101,31/07/2025,North,Ben Lee,Webcam HD,5,75.83,Completed
+ORD-00998,29-Jan-2025,East,Ben Lee,Webcam HD,5,73.52 ,Completed
+ORD-01025,10-Jun-2025,North,Daniel Lim,USB-C Hub,2,49.85,Completed
+ORD-00379,14/11/2025,North,DANIEL LIM,Wireless Mouse,2,26.18,Refunded
+ORD-00012,2025/02/05,South,Emma Ng,Wireless Mouse,1,29.93,Completed
+ORD-00174,2025/05/04,East,Alice Tan,USB-C Hub,2,52.09,Completed
+ORD-00159,13-Jul-2025,South,Chloe Wong,Webcam HD,1,81.89,Refunded
+ORD-00765,2025/04/19,West,Alice Tan,Laptop Pro 14,2,1290.73,Refunded
+ORD-00732,2025-02-28,South,Ben Lee,4K Monitor,10,362.15,Pending
+ORD-00145,21/05/2025,West,Daniel Lim,4k monitor,1,404.86,Completed
+ORD-01022,04/06/2025,East,Emma Ng,Mechanical Keyboard,2,110.97,Completed
+ORD-00593,2025-12-04,West,Emma Ng,Laptop Pro 14,10,1268.84,Completed
+ORD-00808,2025-05-25,South,Ben Lee,Laptop Pro 14,3,1259.94,Completed
+ORD-00117,25-Oct-2025,East,Ben Lee,Mechanical Keyboard,1,108.16,Completed
+ORD-00046,09-Jul-2025,West,Alice Tan,Laptop Air 13,3,811.37,Completed
+ORD-00581,2025/06/12,West,Chloe Wong,mechanical keyboard,2,130.42,Completed
+ORD-01178,2025/01/03,South,Daniel Lim,4K Monitor,2,435.88,Completed
+ORD-00910,2025/06/19,North,Ben Lee,Laptop Stand,2,USD 39.53,Completed
+ORD-00949,05/08/2025,North,Daniel Lim,Mechanical Keyboard,1,120.89,Completed
+ORD-00359,2025-05-08,East,alice tan,Wireless Mouse,10,26.63,Completed
+ORD-00345,03/27/2025,West,ALICE TAN,Mechanical Keyboard,5,122.12,Completed
+ORD-00076,07/06/2025,East,Ben Lee,Wireless Mouse,1,31.38,Refunded
+ORD-00010,02/01/2025,North,Chloe Wong,4K Monitor,1,399.61,Completed
+ORD-00448,2025-01-08,North,Ben Lee,Wireless Mouse,1,$31.35,Completed
+ORD-00672,2025-06-11,south,Emma Ng,Webcam HD,5,71.51,Completed
+ORD-00064,01/08/2025,North,Alice Tan,Webcam HD,1,74.65 ,Refunded
+ORD-00440,2025/02/01,North,Chloe Wong,Webcam HD,5,$76.36,Completed
+ORD-00263,30/11/2025,South,Emma Ng,4K Monitor,2,371.06,Completed
+ORD-00406,09/04/2025,East,Daniel Lim,Wireless Mouse,10,31.27 ,Pending
+ORD-00839,2025/10/13,East,Emma Ng,USB-C Hub,1,44.48,Completed
+ORD-01124,05/09/2025,EAST,Ben Lee,Webcam HD,1,78.79,Completed
+ORD-00009,08/28/2025,North,Emma Ng,4K Monitor,1,413.39,Completed
+ORD-00750,04/02/2025,East,Emma Ng,Laptop Pro 14,,1422.64 ,Completed
+ORD-00313,2025/07/20,North,EMMA NG,USB-C Hub,2,45.41,Completed
+ORD-00999,06/05/2025,east,Daniel Lim,4K Monitor,1,370.54 ,Completed
+ORD-00034,14/11/2025,South,Ben Lee,Mechanical Keyboard,1,$126.58,Completed
+ORD-00533,03-Apr-2025,South,Alice Tan,Wireless Mouse,2,29.37,Completed
+ORD-01156,12-Oct-2025,north,Chloe Wong,Wireless Mouse,10,31.77,Pending
+ORD-00445,02/13/2025,SOUTH,Daniel Lim,Laptop Stand,2,36.19,Completed
+ORD-01062,14-Dec-2025,East  ,Daniel Lim,Laptop Stand,1,39.00,Pending
+ORD-01054,07/10/2025,East,Emma Ng,Wireless Mouse,3,30.36,Completed
+ORD-00633,2025-01-21,South,Chloe Wong,Webcam HD,2,82.96,Completed
+ORD-00607,07/29/2025,West  ,Ben Lee,Mechanical Keyboard,10,$114.65,Refunded
+ORD-00309,06/12/2025,East,Ben Lee,Laptop Stand,10,37.66,Completed
+ORD-01144,2025/02/05, West ,Daniel Lim,Laptop Air 13,1,828.31,Refunded
+ORD-00355,16-Mar-2025,North,Ben Lee,Laptop Pro 14,2,1370.61,Completed
+ORD-01097,2025-04-06,South,Emma Ng,USB-C Hub,1,47.29,Completed
+ORD-00435,09/29/2025,East,Daniel Lim,Laptop Pro 14,1,1407.52,Completed
+ORD-00710,23/02/2025,East,Alice Tan,4K Monitor,10,411.91,Completed
+ORD-00438,2025/11/01,NORTH,Daniel Lim,USB-C Hub,1,51.04,Completed
+ORD-00530,04/07/2025,East,Chloe Wong,Webcam HD,2,85.36,Completed
+ORD-00541,10/10/2025,West,Daniel Lim,Laptop Air 13,1,901.41,Completed
+ORD-01073,03-Sep-2025,NORTH,Emma Ng,USB-C Hub,1,45.79,Refunded
+ORD-00871,01/03/2025,South,Alice Tan,Laptop Air 13,1,940.27,Completed
+ORD-00705,2025-11-26,North,emma ng,Laptop Pro 14,1,1233.62,Refunded
+ORD-01093,2025-03-22,South,Daniel Lim,Wireless Mouse,2,31.05,Completed
+ORD-00688,2025-05-29,West,Ben Lee,4K Monitor,10,USD 365.69,Completed
+ORD-00895,2025/03/08,EAST,Alice Tan,4K Monitor,2,396.00,Completed
+ORD-00038,09/02/2025,East,Alice Tan,4K Monitor,2,380.78,Completed
+ORD-00943,18/04/2025,South,Ben Lee,4K Monitor,3,408.38,Completed
+ORD-00561,02/13/2025,South,Emma Ng,Laptop Pro 14,3,1270.42 ,Refunded
+ORD-00410,24/06/2025,South,Alice Tan,Laptop Stand,2,41.15,Completed
+ORD-00723,2025-07-02,North,ben lee,Wireless Mouse,1,28.02,Completed
+ORD-00152,09/04/2025,east,Ben Lee,Wireless Mouse,5,30.90,Completed
+ORD-00674,2025-09-27,East,Chloe Wong,4K Monitor,10,366.72,Completed
+ORD-00481,2025-06-03,East,Daniel Lim,Laptop Stand,1,40.20,Completed
+ORD-01058,08/09/2025,East,Daniel Lim,Laptop Air 13,3,940.69,Pending
+ORD-00514,09-May-2025,North,Chloe Wong,Laptop Stand,1,36.96,Completed
+ORD-00107,09/02/2025,North,Emma Ng,4K Monitor,1,399.61,Completed
+ORD-00297,2025/08/27,East,Emma Ng,Wireless Mouse,1,26.99,Refunded
+ORD-00877,28-Nov-2025,East,Emma Ng,Laptop Air 13,1,973.28 ,Pending
+ORD-00492,08/06/2025,east,Emma Ng,USB-C Hub,2,48.09,Refunded
+ORD-00466,25-Oct-2025,East,Daniel Lim,USB-C Hub,2,USD 47.24,Completed
+ORD-00450,2025/03/03,South,Emma Ng,4K Monitor,1,419.55,Completed
+ORD-00050,2025/04/24,East,Emma Ng,Webcam HD,2,75.94,Completed
+ORD-00131,2025-12-04, North ,Ben Lee,Mechanical Keyboard,1,126.74,Completed
+ORD-00479,2025/09/26,West  ,Chloe Wong,Mechanical Keyboard,1,129.31,Completed
+ORD-00451,2025/11/20,west,Ben Lee,Webcam HD,1,71.35,Completed
+ORD-00278,2025/08/07,NORTH,Ben Lee,Laptop Air 13,1,962.15,Completed
+ORD-00640,2025-06-28,West,Ben Lee,Laptop Stand,3,USD 40.53,Completed
+ORD-00879,18/05/2025,South,Emma Ng,Webcam HD,1,73.69,Pending
+ORD-00405,18-Dec-2025,North,Ben Lee,Mechanical Keyboard,3,116.53,Completed
+ORD-00569,2025/05/26, West ,Alice Tan,USB-C Hub,1,52.13,Completed
+ORD-00915,2025/11/23,East,Daniel Lim,Laptop Pro 14,2,1361.71,Completed
+ORD-01158,30-Aug-2025,East,Ben Lee,usb-c hub,2,47.28,Refunded
+ORD-01021,13/12/2025,NORTH,Chloe Wong,Laptop Pro 14,10,1217.14,Completed
+ORD-00683,25-Jul-2025,West,Emma Ng,Mechanical Keyboard,1,$109.51,Completed
+ORD-00912,19-Apr-2025,East,Emma Ng,4K Monitor,1,405.72,Completed
+ORD-00838,2025/04/23,West,Daniel Lim,usb-c hub,2,$48.71,Completed
+ORD-00711,09/02/2025, East ,Ben Lee,Laptop Air 13,1,913.00,Completed
+ORD-00043,04/13/2025,West,Emma Ng,Laptop Pro 14,1,1231.07,Completed
+ORD-00460,2025-05-07,South,Emma Ng,USB-C Hub,3,48.36,Completed
+ORD-00398,29/07/2025,North,Emma Ng,Laptop Stand,1,39.79,Completed
+ORD-00612,12/04/2025,West,Daniel Lim,Mechanical Keyboard,3,112.47,Completed
+ORD-00693,10/10/2025,East,Emma Ng,Wireless Mouse,3,28.19,Completed
+ORD-00570,2025-07-13,West,Daniel Lim,Laptop Stand,1,41.04,Pending
+ORD-00936,30/09/2025,East,Emma Ng,Laptop Stand,,41.11,Completed
+ORD-00259,31/08/2025,East,Alice Tan,Mechanical Keyboard,3,110.99,Pending
+ORD-00365,26-Jan-2025,NORTH,Daniel Lim,Mechanical Keyboard,2,121.52,Completed
+ORD-00739,2025/10/05,South,Chloe Wong,Webcam HD,3,72.89,Completed
+ORD-00042,2025-07-14,North,emma ng,4K Monitor,5,379.23,Completed
+ORD-00494,2025-09-01,West,Daniel Lim,Mechanical Keyboard,1,107.40,Completed
+ORD-00568,20-Mar-2025,East,DANIEL LIM,Laptop Air 13,3,863.93,Completed
+ORD-00511,2025-06-08,West,Alice Tan,Laptop Stand,10,39.47,Completed
+ORD-01059,2025-02-24,South,Emma Ng,USB-C Hub,10,45.63,Completed
+ORD-00939,2025-04-12,NORTH,Emma Ng,USB-C Hub,5,49.88,Completed
+ORD-01028,10/09/2025,West,Ben Lee,4K Monitor,2,374.26,Completed
+ORD-00670,03-Jul-2025, West ,Chloe Wong,4K Monitor,1,417.28,Completed
+ORD-01185,28-Oct-2025,South,alice tan,Mechanical Keyboard,1,116.49,Completed
+ORD-00565,08-Mar-2025,East,Daniel Lim,Laptop Stand,2,38.58,Completed
+ORD-00147,03-May-2025,South,Alice Tan,USB-C Hub,1,50.66,Completed
+ORD-00319,2025/05/05,south,Emma Ng,Laptop Pro 14,1,"$1,318.09",Completed
+ORD-00021,2025-04-15,South,Chloe Wong,Mechanical Keyboard,2,113.42,Completed
+ORD-00992,2025/07/10,South,Chloe Wong,Webcam HD,1,73.56,Completed
+ORD-01121,17-Mar-2025,North,Chloe Wong,Laptop Air 13,10,831.77,Completed
+ORD-00381,05-Jan-2025,East,Alice Tan,Laptop Air 13,5,927.84,Completed
+ORD-00078,12/13/2025,west,Daniel Lim,Webcam HD,3,72.53,Pending
+ORD-00072,15-Jul-2025,South,Chloe Wong,USB-C Hub,10,53.05,Completed
+ORD-00428,2025/09/27,North,Alice Tan,4K Monitor,10,400.35,Completed
+ORD-00730,12-Jul-2025,South,Daniel Lim,Wireless Mouse,5,31.05,Refunded
+ORD-00904,2025-10-10,South,Ben Lee,USB-C Hub,1,48.59,Completed
+ORD-01001,09/01/2025,West,Ben Lee,Webcam HD,2,81.93,Completed
+ORD-01055,11-Sep-2025,North,Ben Lee,Webcam HD,3,86.29,Completed
+ORD-00203,31-Jan-2025,South,Chloe Wong,4K Monitor,1,415.07,Completed
+ORD-00193,2025-10-14,West,Ben Lee,Webcam HD,10,74.76,Pending
+ORD-01161,2025-11-10, South ,Emma Ng,Laptop Air 13,1,953.91,Completed
+ORD-00215,05/27/2025,North,Emma Ng,Webcam HD,5,82.19,Completed
+ORD-00205,02/17/2025,West,Daniel Lim,Laptop Stand,3,41.73,Completed
+ORD-00886,21-Feb-2025,South,Daniel Lim,Webcam HD,1,73.64 ,Completed
+ORD-00237,10/09/2025,NORTH,Alice Tan,4K Monitor,1,398.24 ,Completed
+ORD-01135,02/14/2025,South,Emma Ng,Laptop Air 13,1,835.32,Completed
+ORD-00653,2025/09/01, West ,Ben Lee,Laptop Air 13,1,975.01,Completed
+ORD-00875,2025/10/10,South,Daniel Lim,4K Monitor,1,400.06,Completed
+ORD-01149,08/05/2025,South,Chloe Wong,Laptop Pro 14,,1346.82,Completed
+ORD-00432,25/12/2025,North,Alice Tan,USB-C Hub,10,45.87,Completed
+ORD-00092,08-Nov-2025,East,chloe wong,4K Monitor,1,373.50,Completed
+ORD-01077,2025/08/26,East,Daniel Lim,Mechanical Keyboard,2,127.00,Refunded
+ORD-00304,25-Dec-2025,North,Chloe Wong,Laptop Air 13,3,975.96,Completed
+ORD-00729,2025/12/16,North,Alice Tan,Webcam HD,10,75.25,Completed
+ORD-00598,24/10/2025,south,Daniel Lim,Mechanical Keyboard,2,$117.06,Completed
+ORD-00870,2025/11/08,North,Emma Ng,USB-C Hub,5,45.80,Completed
+ORD-00491,2025-01-03,West,Emma Ng,Laptop Air 13,2,974.60,Completed
+ORD-00715,2025/03/12,North,Daniel Lim,Laptop Air 13,1,876.97,Completed
+ORD-00239,2025/06/15,West,Daniel Lim,Wireless Mouse,1,30.35 ,Completed
+ORD-00742,03/05/2025, West ,Ben Lee,Mechanical Keyboard,10,116.93,Completed
+ORD-01127,2025/01/23,North,Daniel Lim,4K Monitor,3,360.53,Pending
+ORD-00023,2025/11/10,North,Ben Lee,Laptop Pro 14,2,1411.17,Completed
+ORD-00020,2025/05/01,South,Alice Tan,Webcam HD,1,85.98,Pending
+ORD-00682,2025-11-26,west,Emma Ng,Laptop Pro 14,10,1400.97,Completed
+ORD-00097,10/21/2025, West ,Ben Lee,Webcam HD,5,75.67,Completed
+ORD-00371,2025/06/11,South  ,Chloe Wong,Laptop Pro 14,2,1407.89,Completed
+ORD-00779,2025/10/18,North,Ben Lee,Mechanical Keyboard,2,USD 109.72,Refunded
+ORD-00773,2025-01-07,South,Alice Tan,Laptop Stand,5,37.71,Pending
+ORD-00446,2025/08/19,East,Alice Tan,Laptop Pro 14,1,1257.25,Completed
+ORD-00051,06/06/2025,South,Emma Ng,4K Monitor,2,368.73,Completed
+ORD-00718,06/01/2025,West,Chloe Wong,Webcam HD,5,81.84,Completed
+ORD-00471,25/01/2025,South,Ben Lee,Wireless Mouse,3,27.75,Completed
+ORD-00586,10/09/2025,SOUTH,Alice Tan,Wireless Mouse,2,29.93,Refunded
+ORD-00727,06-Jul-2025,West,Daniel Lim,Mechanical Keyboard,1,108.79,Completed
+ORD-00746,2025-06-15,WEST,Alice Tan,USB-C Hub,1,45.01,Pending
+ORD-00813,12/05/2025,East,Emma Ng,4K Monitor,,402.32,Pending
+ORD-00338,19-Sep-2025,South  ,Daniel Lim,4K Monitor,5,USD 376.82,Completed
+ORD-00932,2025/09/28,West,Emma Ng,Laptop Pro 14,3,1173.31,Completed
+ORD-00380,2025/09/05,North,Alice Tan,Wireless Mouse,1,28.28,Completed
+ORD-00058,17-May-2025,East,Emma Ng,Wireless Mouse,1,26.45,Completed
+ORD-00255,2025-05-02, East ,Chloe Wong,Laptop Pro 14,10,1408.33,Completed
+ORD-00457,30/08/2025,South,Emma Ng,Laptop Stand,1,42.05,Completed
+ORD-00962,12/07/2025,North,Chloe Wong,Laptop Stand,5,38.39,Refunded
+ORD-00307,2025-09-20,East,Ben Lee,Wireless Mouse,1,27.17,Refunded
+ORD-00170,28-Apr-2025,East,Daniel Lim,Webcam HD,2,78.99,Completed
+ORD-00029,2025/06/18,East,Emma Ng,4K Monitor,1,436.26,Completed
+ORD-00310,04/24/2025,South,Chloe Wong,Webcam HD,2,84.37,Completed
+ORD-00458,19/05/2025,North,Alice Tan,USB-C Hub,3,45.35,Completed
+ORD-00489,10/05/2025,North,Alice Tan,Laptop Pro 14,,1247.47,Completed
+ORD-00800,2025-10-14,West,emma ng,Wireless Mouse,1,28.65,Completed
+ORD-00305,08/31/2025,West,Emma Ng,Wireless Mouse,,26.89,Completed
+ORD-00360,2025-10-13,North,Chloe Wong,Mechanical Keyboard,10,124.55,Completed
+ORD-00002,22/04/2025,West,Emma Ng,USB-C Hub,1,49.60,Completed
+ORD-00225,09-Sep-2025,NORTH,Emma Ng,Laptop Pro 14,1,1353.99,Completed
+ORD-00824,08/10/2025,North,Emma Ng,Webcam HD,1,84.49,Pending
+ORD-01113,2025-08-03,South,Alice Tan,Mechanical Keyboard,2,109.03,Completed
+ORD-00562,01/12/2025,East,Emma Ng,Laptop Pro 14,2,USD 1231.80,Refunded
+ORD-00486,04/07/2025,NORTH,Alice Tan,Laptop Air 13,5,891.90,Completed
+ORD-00323,04-Dec-2025,West,Chloe Wong,Wireless Mouse,1,31.30,Completed
+ORD-00955,2025/01/25,South,Alice Tan,Mechanical Keyboard,2,123.61,Completed
+ORD-00397,09/03/2025,East  ,Daniel Lim,USB-C Hub,1,USD 50.20,Completed
+ORD-00171,2025-03-28,North,Alice Tan,Wireless Mouse,10,27.17,Completed
+ORD-00387,06/12/2025,West,Chloe Wong,Wireless Mouse,1,30.54,Completed
+ORD-00011,2025/09/29,North,Chloe Wong,Laptop Pro 14,3,1296.04,Completed
+ORD-00127,2025/04/13,North,Emma Ng,Wireless Mouse,2,30.68,Completed
+ORD-00149,21-Oct-2025,South,Ben Lee,USB-C Hub,1,USD 53.05,Completed
+ORD-01167,2025-01-11,West,Emma Ng,USB-C Hub,5,47.00,Completed
+ORD-00083,2025-03-06,South,Ben Lee,USB-C Hub,1,52.23 ,Completed
+ORD-01138,04-Jan-2025,North,Emma Ng,Mechanical Keyboard,10,109.13,Completed
+ORD-00701,2025/05/24,North,Daniel Lim,Wireless Mouse,2,31.74,Refunded
+ORD-00677,2025-09-24,North,Daniel Lim,USB-C Hub,2,50.33,Completed
+ORD-00422,05/30/2025,East,Chloe Wong,Webcam HD,10,74.19,Completed
+ORD-00921,2025/06/24,North,Ben Lee,4K Monitor,2,409.05,Completed
+ORD-01192,04/21/2025,East,DANIEL LIM,Wireless Mouse,1,27.49 ,Completed
+ORD-00392,21/01/2025,West,Chloe Wong,Webcam HD,1,74.10,Completed
+ORD-00760,2025-07-24,North,Daniel Lim,Laptop Air 13,3,897.89,Completed
+ORD-00551,2025-12-31,East,Ben Lee,Webcam HD,5,84.26,Completed
+ORD-00892,07/10/2025,North,Alice Tan,Laptop Pro 14,1,1327.41,Completed
+ORD-01057,21/12/2025,North,EMMA NG,Webcam HD,1,84.11 ,Completed
+ORD-00277,2025-02-08,West,Chloe Wong,Laptop Air 13,2,$924.95,Completed
+ORD-00857,11/03/2025,West,daniel lim,Wireless Mouse,10,26.16,Completed
+ORD-00425,04-Jul-2025,south,Alice Tan,Webcam HD,1,75.66,Completed
+ORD-00714,28/06/2025,South,Emma Ng,Mechanical Keyboard,1,114.11,Completed
+ORD-00656,24-Feb-2025,West,Chloe Wong,Webcam HD,1,79.61,Completed
+ORD-00462,2025/04/22, North ,Ben Lee,Wireless Mouse,3,27.82,Completed
+ORD-01048,2025/03/26,East,BEN LEE,Laptop Stand,10,$39.47,Completed
+ORD-00628,04/20/2025,North,CHLOE WONG,Laptop Air 13,3,867.24,Pending
+ORD-00661,22/04/2025,North,Ben Lee,USB-C Hub,1,47.65,Completed
+ORD-00376,2025/09/14,West,Daniel Lim,Webcam HD,1,83.14,Pending
+ORD-00121,07/10/2025,East,Chloe Wong,4K Monitor,3,367.29,Completed
+ORD-00499,2025-10-04,North,Chloe Wong,Laptop Pro 14,1,1426.49,Completed
+ORD-00758,2025/09/13,North,Emma Ng,Laptop Pro 14,2,1278.54,Completed
+ORD-00872,2025/05/07,South,Daniel Lim,4K Monitor,2,$418.74,Completed
+ORD-00300,2025-02-28, East ,Emma Ng,Webcam HD,2,79.64,Completed
+ORD-00377,05/05/2025,East,emma ng,Laptop Air 13,2,948.76,Completed
+ORD-00168,2025-05-03,East,Chloe Wong,Mechanical Keyboard,2,116.16,Completed
+ORD-00219,2025/10/23,EAST,Chloe Wong,Laptop Air 13,10,890.94,Completed
+ORD-00501,09/01/2025,West,Daniel Lim,Wireless Mouse,1,28.37,Completed
+ORD-00088,08/20/2025,West,Alice Tan,USB-C Hub,5,47.42,Completed
+ORD-00211,22/04/2025,North,Daniel Lim,Laptop Air 13,1,834.27,Completed
+ORD-00989,2025-10-28, North ,Daniel Lim,Wireless Mouse,3,30.39,Completed
+ORD-00859,2025-10-27,West,Emma Ng,4K Monitor,3,408.94,Pending
+ORD-01153,09/29/2025,South,Chloe Wong,Laptop Air 13,10,871.64,Completed
+ORD-00983,02/10/2025,South,Emma Ng,USB-C Hub,3,45.05,Refunded
+ORD-00388,05-Apr-2025,South,Ben Lee,Laptop Pro 14,2,1326.44,Completed
+ORD-00833,11/12/2025, South ,Daniel Lim,Mechanical Keyboard,1,115.37,Completed
+ORD-01004,20/08/2025,East,Daniel Lim,Laptop Stand,5,38.72,Completed
+ORD-00385,07/08/2025,South,Ben Lee,4K Monitor,3,394.94,Completed
+ORD-00994,2025-12-23,south,Alice Tan,Laptop Stand,1,40.27,Completed
+ORD-00096,12-Sep-2025,South,chloe wong,Webcam HD,1,$73.14,Completed
+ORD-00825,05/05/2025,North,Daniel Lim,Mechanical Keyboard,2,117.95,Completed
+ORD-00611,07/04/2025,West,Alice Tan,Webcam HD,,74.41,Completed
+ORD-00290,2025/07/16,East,Daniel Lim,Webcam HD,2,75.42 ,Completed
+ORD-00456,31-Oct-2025,East,Alice Tan,Mechanical Keyboard,5,111.83 ,Completed
+ORD-01099,2025/01/22,East,Daniel Lim,Laptop Air 13,5,833.54,Completed
+ORD-00102,25-Oct-2025,South,Daniel Lim,Laptop Pro 14,10,1405.27,Completed
+ORD-00830,24/01/2025,West,Daniel Lim,Laptop Air 13,3,979.90,Completed
+ORD-00669,07/11/2025,North,Ben Lee,USB-C Hub,1,50.59,Completed
+ORD-00941,04/08/2025,East,Daniel Lim,Webcam HD,1,76.70,Completed
+ORD-00603,2025/01/24,East,Chloe Wong,USB-C Hub,2,51.84,Completed
+ORD-00901,26-Apr-2025,East,Daniel Lim,webcam hd,10,83.06,Completed
+ORD-01123,2025/12/04,East,Daniel Lim,webcam hd,3,78.20,Completed
+ORD-00599,19/06/2025,North,Alice Tan,Webcam HD,2,77.42,Completed
+ORD-00579,11/14/2025,West,Chloe Wong,4K Monitor,1,359.14,Completed
+ORD-01071,03-Dec-2025,North,Ben Lee,Wireless Mouse,5,26.77,Completed
+ORD-00944,03/25/2025,West,Chloe Wong,Laptop Pro 14,10,"$1,222.12",Completed
+ORD-00503,2025-05-07,North,Alice Tan,USB-C Hub,2,USD 49.91,Completed
+ORD-00782,11-Apr-2025,North,Chloe Wong,Webcam HD,1,75.69,Completed
+ORD-00028,25/02/2025,South,Daniel Lim,webcam hd,1,84.67,Completed
+ORD-00708,2025-07-16,North,Chloe Wong,Laptop Air 13,10,839.59,Completed
+ORD-01129,19-Aug-2025,North,Chloe Wong,USB-C Hub,5,44.12,Completed
+ORD-01112,2025/05/12,South,Ben Lee,Laptop Air 13,1,$908.89,Refunded
+ORD-00124,2025/03/12,East,ALICE TAN,Mechanical Keyboard,5,114.58,Completed
+ORD-00963,05/09/2025,West,Daniel Lim,Mechanical Keyboard,1,107.41,Completed
+ORD-01056,2025/03/26,South,Emma Ng,Laptop Pro 14,3,1300.65,Completed
+ORD-00196,02-Jun-2025,South,Ben Lee,Laptop Air 13,1,USD 865.41,Pending
+ORD-00233,11/11/2025, West ,Daniel Lim,USB-C Hub,2,48.99 ,Refunded
+ORD-00343,2025/06/21,East,Daniel Lim,4K Monitor,3,387.85,Completed
+ORD-00262,12/06/2025,North,Chloe Wong,Mechanical Keyboard,2,114.20,Completed
+ORD-00563,2025/11/30,North,Ben Lee,Laptop Air 13,10,862.67,Refunded
+ORD-00317,2025/06/26,North,Ben Lee,Laptop Stand,10,42.02,Completed
+ORD-00073,15-Aug-2025,West,Daniel Lim,Mechanical Keyboard,2,USD 122.31,Completed
+ORD-00390,14/04/2025,West,Daniel Lim,USB-C Hub,1,45.84,Completed
+ORD-00595,08/16/2025, North ,Emma Ng,Wireless Mouse,2,26.90,Completed
+ORD-00293,28/01/2025,South,Chloe Wong,laptop pro 14,2,USD 1238.46,Refunded
+ORD-00780,2025-05-28,North,Emma Ng,Laptop Air 13,2,811.90,Completed
+ORD-00195,28-Feb-2025,East,Emma Ng,4K Monitor,10,USD 401.21,Pending
+ORD-00070,2025-09-07,East,Alice Tan,Laptop Pro 14,1,1230.09 ,Completed
+ORD-00248,2025/07/09,North,Daniel Lim,Webcam HD,3,74.05,Completed
+ORD-00743,2025/08/01,west,Ben Lee,USB-C Hub,1,52.92,Pending
+ORD-00322,2025/09/16,South,Emma Ng,Webcam HD,1,80.67,Refunded
+ORD-00288,2025/06/23,North,Daniel Lim,Laptop Air 13,,817.46,Completed
+ORD-00186,16/06/2025,West,Emma Ng,webcam hd,2,84.00,Refunded
+ORD-00470,29-Sep-2025,South,Chloe Wong,Laptop Stand,10,37.47,Completed
+ORD-00823,21/04/2025,South,Alice Tan,Webcam HD,1,81.48,Pending
+ORD-01122,12/09/2025,North,Daniel Lim,4K Monitor,2,$430.57,Completed
+ORD-00454,2025-12-04,North,Daniel Lim,USB-C Hub,2,$44.62,Completed
+ORD-00246,2025/10/04,North  ,BEN LEE,4K Monitor,,382.83 ,Completed
+ORD-00180,2025-05-07,West,Ben Lee,laptop air 13,1,857.28,Completed
+ORD-00093,2025/01/16,West,Chloe Wong,Laptop Air 13,2,876.74,Pending
+ORD-00802,09/23/2025,North,Chloe Wong,4K Monitor,5,USD 408.47,Completed
+ORD-00617,2025/03/08,West,Emma Ng,USB-C Hub,,48.34,Completed
+ORD-00234,2025-07-03,East,ben lee,Laptop Stand,10,USD 37.78,Completed
+ORD-00534,18/02/2025,North,Emma Ng,Mechanical Keyboard,1,USD 113.87,Completed
+ORD-00045,2025/11/18,East,Emma Ng,USB-C Hub,1,50.93,Completed
+ORD-01090,18/07/2025,North,Daniel Lim,Laptop Stand,2,38.01,Completed
+ORD-00266,02-Dec-2025,East,Chloe Wong,Laptop Air 13,2,872.98,Completed
+ORD-00207,2025-04-14, East ,chloe wong,Wireless Mouse,2,27.02,Completed
+ORD-00649,05/24/2025,West,ben lee,USB-C Hub,3,48.53,Completed
+ORD-00868,2025/03/03,North,Emma Ng,Laptop Pro 14,10,1334.72,Completed
+ORD-01168,27/02/2025,SOUTH,Emma Ng,Laptop Stand,5,42.19,Completed
+ORD-00594,02/25/2025,North,Ben Lee,Laptop Air 13,1,916.11 ,Completed
+ORD-00013,10/12/2025,WEST,Alice Tan,Mechanical Keyboard,10,128.51,Pending
+ORD-00177,11-Jun-2025,West,Chloe Wong,Laptop Pro 14,2,1321.61,Refunded
+ORD-00524,18/10/2025,West,Daniel Lim,Laptop Air 13,1,938.30,Completed
+ORD-01097,2025-04-06,South,Emma Ng,USB-C Hub,1,47.29,Completed
+ORD-00368,07-Dec-2025,South,Emma Ng,Webcam HD,1,73.74 ,Completed
+ORD-00918,25-Oct-2025,North,Alice Tan,Laptop Stand,10,$35.87,Completed
+ORD-00685,08/11/2025, South ,Alice Tan,Laptop Pro 14,3,1398.65,Completed
+ORD-00251,18/08/2025,South  ,Alice Tan,Wireless Mouse,1,31.74,Pending
+ORD-00521,10-Jun-2025,South,Daniel Lim,Laptop Air 13,1,837.48,Completed
+ORD-00213,05/03/2025,West,Alice Tan,Laptop Stand,5,35.98,Completed
+ORD-00126,13/06/2025,East,Ben Lee,Mechanical Keyboard,1,120.19,Completed
+ORD-00632,03/19/2025,South,Emma Ng,Webcam HD,2,81.24,Completed
+ORD-00772,02/01/2025,West,Ben Lee,Laptop Air 13,1,899.58,Completed
+ORD-00005,06/07/2025,East,Alice Tan,Wireless Mouse,3,28.16 ,Completed
+ORD-00464,05/19/2025,East,Alice Tan,USB-C Hub,1,50.18,Completed
+ORD-01024,15-Feb-2025,North,Chloe Wong,Mechanical Keyboard,3,123.71,Completed
+ORD-00761,04/25/2025,East,Daniel Lim,Laptop Pro 14,1,1205.14 ,Refunded
+ORD-00290,2025/07/16,East,Daniel Lim,Webcam HD,2,75.42 ,Completed
+ORD-00320,10/01/2025,West,Ben Lee,4K Monitor,1,376.38,Pending
+ORD-00157,2025/08/22,East,Daniel Lim,laptop pro 14,10,"$1,343.89",Completed
+ORD-00321,04-Dec-2025,East,Emma Ng,4K Monitor,1,416.89,Completed
+ORD-00934,09-Aug-2025,South,Alice Tan,4K Monitor,10,395.11,Refunded
+ORD-00331,2025/06/30,North,Alice Tan,Webcam HD,5,80.36,Pending
+ORD-00431,16/09/2025,East,CHLOE WONG,Laptop Air 13,2,854.42 ,Completed
+ORD-00487,02/11/2025,North,Alice Tan,Mechanical Keyboard,1,124.00,Completed
+ORD-00311,2025-11-27,South,Ben Lee,Laptop Air 13,2,963.50,Completed
+ORD-00103,02/13/2025,West,Emma Ng,Wireless Mouse,1,USD 27.54,Completed
+ORD-00065,2025-09-05,South,Emma Ng,Laptop Stand,2,38.66,Completed
+ORD-00033,01/01/2025,East,Daniel Lim,4K Monitor,2,375.87,Completed
+ORD-00429,10/01/2025,West,Chloe Wong,Laptop Pro 14,10,1287.06,Completed
+ORD-01029,02/09/2025,West,Daniel Lim,4K Monitor,1,377.87,Completed
+ORD-00069,2025/12/02,East,Daniel Lim,Wireless Mouse,1,28.82,Completed
+ORD-00968,30-Mar-2025,South,Chloe Wong,Laptop Stand,1,37.70,Completed
+ORD-01020,10-Aug-2025,North,Emma Ng,USB-C Hub,2,44.59,Pending
+ORD-00418,22/02/2025,North,Emma Ng,Webcam HD,1,76.25,Pending
+ORD-00787,2025/11/29,East,Chloe Wong,Laptop Air 13,3,915.96 ,Completed
+ORD-00580,24-Jan-2025,West,Ben Lee,Wireless Mouse,1,27.84,Completed
+ORD-00588,09/11/2025,South  ,Emma Ng,Mechanical Keyboard,1,$128.13,Completed
+ORD-00964,09/07/2025,North,Alice Tan,Webcam HD,5,$71.77,Pending
+ORD-00417,12/07/2025,north,Chloe Wong,Mechanical Keyboard,3,117.89,Completed
+ORD-01096,2025/12/31,East,Ben Lee,Laptop Air 13,1,948.06,Completed
+ORD-00592,2025/01/29,North,Chloe Wong,4K Monitor,5,364.35,Completed
+ORD-00702,16/06/2025,West,Ben Lee,4K Monitor,2,405.52,Completed
+ORD-01199,01/25/2025,East,Alice Tan,Mechanical Keyboard,1,126.22,Pending
+ORD-00911,23-Mar-2025,East,Ben Lee,4K Monitor,,416.00,Completed
+ORD-01102,13-Mar-2025,North,Daniel Lim,4K Monitor,5,378.61,Completed
+ORD-01088,10-Dec-2025,West,Ben Lee,4K Monitor,5,405.36 ,Completed
+ORD-00086,2025-02-01,North,DANIEL LIM,Laptop Stand,5,38.42,Completed
+ORD-00361,2025/10/05,East,Daniel Lim,Laptop Stand,2,39.52,Completed
+ORD-00745,30-Mar-2025,West,Ben Lee,Webcam HD,3,79.27,Completed
+ORD-00264,13/05/2025,North,Emma Ng,Webcam HD,5,77.23,Refunded
+ORD-00434,09/01/2025,West,Ben Lee,USB-C Hub,5,50.80,Completed
+ORD-00188,13-Jul-2025,West,Emma Ng,laptop air 13,10,987.23,Refunded
+ORD-00067,10-Oct-2025,South,Ben Lee,Webcam HD,10,85.84,Completed
+ORD-00004,2025-10-10,NORTH,Chloe Wong,4K Monitor,3,405.17,Completed
+ORD-00383,2025/06/20,North,Chloe Wong,Laptop Stand,5,40.91,Completed
+ORD-00636,2025/04/14,East,Ben Lee,4K Monitor,10,365.49,Completed
+ORD-00212,10/11/2025,East,Emma Ng,4K Monitor,1,426.76,Completed
+ORD-01164,2025-08-19,South,Chloe Wong,USB-C Hub,,44.41,Completed
+ORD-01120,2025-07-25,East,Ben Lee,Webcam HD,2,$83.65,Completed
+ORD-00369,16/06/2025,West,Chloe Wong,Mechanical Keyboard,5,125.29,Completed
+ORD-00226,11/23/2025,North,Ben Lee,Webcam HD,1,80.45,Completed
+ORD-00619,22-Aug-2025,South,Ben Lee,Mechanical Keyboard,2,116.41,Completed
+ORD-00945,15-Mar-2025,South,Alice Tan,Webcam HD,1,79.62,Completed
+ORD-00795,03/04/2025,East,DANIEL LIM,4K Monitor,1,414.78,Completed
+ORD-01155,12/20/2025,East,alice tan,Laptop Air 13,2,USD 964.09,Completed
+ORD-00217,2025/08/21,SOUTH,Alice Tan,Laptop Pro 14,2,1342.15,Refunded
+ORD-00114,2025/03/04,West  ,Emma Ng,Laptop Pro 14,2,1278.17,Completed
+ORD-00480,29/05/2025,East,Chloe Wong,Laptop Stand,1,41.52,Completed
+ORD-00354,2025-03-19,West,Daniel Lim,Laptop Pro 14,10,1225.53,Completed
+ORD-00497,18-Nov-2025,North,Daniel Lim,Wireless Mouse,1,26.68,Pending
+ORD-00256,15-Aug-2025,North,Ben Lee,Mechanical Keyboard,2,124.45,Refunded
+ORD-00074,2025-10-22,West,Emma Ng,4K Monitor,2,360.85,Pending
+ORD-00252,2025/02/04,East,Emma Ng,Laptop Air 13,5,909.13,Pending
+ORD-00367,2025-07-17,South,Ben Lee,USB-C Hub,2,49.26,Pending
+ORD-00222,2025-04-25,West,Chloe Wong,Laptop Pro 14,5,1187.01,Completed
+ORD-00615,2025/12/19,North,Daniel Lim,Laptop Stand,1,36.56,Completed
+ORD-00198,10/04/2025,West,Daniel Lim,webcam hd,10,$77.56,Completed
+ORD-00197,2025-04-06,West,Ben Lee,Laptop Stand,1,39.43,Completed
+ORD-00316,06/10/2025,East,Alice Tan,Wireless Mouse,5,29.89,Refunded
+ORD-00269,28-Mar-2025,North  ,Daniel Lim,wireless mouse,10,30.65,Completed
+ORD-01130,24-Nov-2025,South,Emma Ng,4K Monitor,1,$398.73,Refunded
+ORD-00436,11/05/2025,South,Emma Ng,Webcam HD,10,83.32,Completed
+ORD-00647,01/04/2025,West,Emma Ng,Webcam HD,2,85.83,Completed
+ORD-00156,14-Apr-2025,WEST,Emma Ng,Wireless Mouse,1,28.00,Completed
+ORD-01006,16-Nov-2025,East,Ben Lee,Webcam HD,,74.25,Completed
+ORD-00052,29/10/2025,East,Ben Lee,4k monitor,1,425.54,Completed
+ORD-00350,07-Jul-2025,NORTH,Chloe Wong,Webcam HD,2,73.56,Completed
+ORD-00914,2025-12-09,South,Chloe Wong,Laptop Air 13,3,849.52,Completed
+ORD-00740,2025-12-19,North,ALICE TAN,Webcam HD,2,82.19,Completed
+ORD-00285,10/09/2025,East,Emma Ng,Laptop Pro 14,1,1374.81,Completed
+ORD-00218,03/27/2025,East,Alice Tan,Mechanical Keyboard,1,USD 124.94,Refunded
+ORD-00508,16-Nov-2025,South,Ben Lee,Laptop Stand,1,41.97,Completed
+ORD-00763,06/13/2025,North,Ben Lee,Wireless Mouse,5,29.79,Completed
+ORD-00665,2025-02-02,North,Emma Ng,Wireless Mouse,5,30.81,Refunded
+ORD-00815,10/18/2025,West,Ben Lee,4K Monitor,1,435.73 ,Completed
+ORD-00018,02/01/2025,West,Emma Ng,Webcam HD,2,85.74,Completed
+ORD-00211,22/04/2025,North,Daniel Lim,Laptop Air 13,1,834.27,Completed
+ORD-00689,08/08/2025,North,Emma Ng,USB-C Hub,10,51.02 ,Completed
+ORD-00332,2025/05/22,West,Chloe Wong,USB-C Hub,2,48.56,Completed
+ORD-00006,2025-11-24,North,Alice Tan,USB-C Hub,3,52.36,Completed
+ORD-00214,2025-10-19,South,ALICE TAN,Webcam HD,3,79.73,Completed
+ORD-00071,2025/01/15,East,Daniel Lim,Laptop Pro 14,3,1375.94,Completed
+ORD-01165,11/07/2025,WEST,BEN LEE,Laptop Pro 14,1,1346.92,Completed
+ORD-00616,2025-01-06,West,Alice Tan,Wireless Mouse,3,31.09,Completed
+ORD-00119,08-Apr-2025,North,Chloe Wong,4K Monitor,3,427.90,Completed
+ORD-00578,2025/02/12,South,Emma Ng,usb-c hub,1,47.76,Completed
+ORD-01018,20/10/2025,North,Chloe Wong,USB-C Hub,1,52.56,Pending
+ORD-01007,04/16/2025,South,Emma Ng,Webcam HD,1,USD 75.42,Completed
+ORD-01061,2025/08/05,East,Chloe Wong,Mechanical Keyboard,5,107.35,Completed
+ORD-01195,01/14/2025,North,BEN LEE,Webcam HD,1,81.92,Completed
+ORD-00382,2025-12-30,North,Emma Ng,Laptop Air 13,3,896.24,Completed
+ORD-00618,2025/03/15,South,Emma Ng,Laptop Stand,1,41.53,Completed
+ORD-00160,01/02/2025,West,Ben Lee,Laptop Pro 14,2,1289.39,Completed
+ORD-00044,28-Feb-2025,North,Emma Ng,Wireless Mouse,2,26.73,Completed
+ORD-00860,2025/05/24,South,Emma Ng,Wireless Mouse,2,29.37,Pending
+ORD-00576,03/03/2025,South,Emma Ng,Laptop Pro 14,2,"$1,231.35",Completed
+ORD-00140,2025-12-29,East,Alice Tan,4K Monitor,10,424.20,Pending
+ORD-00657,07-Dec-2025,North,Emma Ng,Laptop Pro 14,3,1249.35,Completed
+ORD-00341,22/10/2025,South,Daniel Lim,USB-C Hub,1,51.16,Completed
+ORD-00564,03-Jun-2025,SOUTH,Chloe Wong,4K Monitor,1,USD 416.11,Completed
+ORD-00085,2025/02/02,North,Ben Lee,Laptop Stand,10,41.17 ,Completed
+ORD-00925,01-Jul-2025,West,Alice Tan,Mechanical Keyboard,10,114.43,Completed
+ORD-00312,2025/11/20,South,Emma Ng,Laptop Pro 14,5,1368.94,Completed
+ORD-00132,25-Nov-2025,West,Alice Tan,4K Monitor,10,USD 378.64,Completed
+ORD-00515,2025-02-24,West,emma ng,Wireless Mouse,2,31.73,Completed
+ORD-01177,2025/01/09,East,Alice Tan,Wireless Mouse,1,26.47,Completed
+ORD-00646,2025/03/05,South,ALICE TAN,4K Monitor,1,386.40,Completed
+ORD-00597,14-Oct-2025,South,Ben Lee,Laptop Pro 14,5,1258.42,Completed
+ORD-00821,20-Oct-2025,West,ben lee,Mechanical Keyboard,5,108.80,Completed
+ORD-00433,2025-07-16,South,CHLOE WONG,USB-C Hub,10,51.21,Completed
+ORD-00348,2025/05/26, South ,Chloe Wong,Laptop Stand,1,36.12,Completed
+ORD-00933,2025/02/04,North,Emma Ng,Laptop Air 13,1,USD 984.27,Completed
+ORD-00984,16/01/2025,East,Alice Tan,Laptop Pro 14,1,1378.81 ,Completed
+ORD-00523,28/11/2025,South,ben lee,USB-C Hub,1,53.65,Completed
+ORD-00681,2025/02/27,North,Daniel Lim,Mechanical Keyboard,2,126.90,Completed
+ORD-00967,2025/08/17,East,Ben Lee,Laptop Pro 14,3,1288.14,Completed
+ORD-00142,08-Apr-2025,South,Ben Lee,Laptop Pro 14,10,1250.60,Completed
+ORD-00959,2025/12/11,East,Alice Tan,Wireless Mouse,2,28.67,Completed
+ORD-01063,2025-12-17,West,Alice Tan,Laptop Stand,1,38.06,Completed
+ORD-00721,2025-06-21,north,Chloe Wong,Laptop Pro 14,2,1242.42,Completed
+ORD-00453,2025/02/15,South,Emma Ng,4K Monitor,3,392.52,Refunded
+ORD-00552,11/07/2025,West,Ben Lee,Laptop Stand,1,41.29,Completed
+ORD-00997,15/03/2025,South,CHLOE WONG,Laptop Stand,1,USD 40.27,Completed
+ORD-00426,01/08/2025,West,Emma Ng,Laptop Stand,,39.96,Completed
+ORD-00519,2025/09/09,East,Alice Tan,Laptop Stand,5,42.33,Completed
+ORD-01046,07/18/2025,East,Ben Lee,Laptop Air 13,2,845.09,Completed
+ORD-00060,11-Dec-2025,South,Daniel Lim,4K Monitor,1,420.00 ,Completed
+ORD-00427,2025/09/13,east,Emma Ng,USB-C Hub,2,48.13,Completed
+ORD-00928,12/04/2025,west,Chloe Wong,Webcam HD,10,75.05,Completed
+ORD-00986,04/07/2025,West,emma ng,Webcam HD,1,76.76,Refunded
+ORD-00141,24/10/2025,South,Emma Ng,USB-C Hub,1,49.82,Completed
+ORD-01132,2025/08/01,South,Chloe Wong,Wireless Mouse,5,27.28,Completed
+ORD-00794,19-Mar-2025,South,Chloe Wong,Mechanical Keyboard,3,118.04 ,Completed
+ORD-00044,28-Feb-2025,North,Emma Ng,Wireless Mouse,2,26.73,Completed
+ORD-01188,05-Jan-2025,North,Alice Tan,Laptop Pro 14,1,1223.32,Completed
+ORD-00527,21-Dec-2025,West,chloe wong,Webcam HD,2,$82.37,Completed
+ORD-00885,2025-05-26,West  ,Ben Lee,4K Monitor,5,412.99,Completed
+ORD-01003,22-Jan-2025,South,Ben Lee,Laptop Stand,5,40.64,Completed
+ORD-00829,2025/09/29,West,Ben Lee,Webcam HD,5,USD 76.70,Pending
+ORD-00279,25-Jun-2025,West,Daniel Lim,Wireless Mouse,1,28.42,Completed
+ORD-01197,16/05/2025,East,Alice Tan,4K Monitor,1,368.34,Completed
+ORD-00791,13-Apr-2025,North,Daniel Lim,Laptop Stand,10,37.36,Completed
+ORD-00135,2025/09/21,West  ,Emma Ng,laptop stand,10,41.96,Completed
+ORD-01189,2025/09/26,East,Daniel Lim,Laptop Pro 14,2,1347.95,Completed
+ORD-00575,03/28/2025,North,Alice Tan,Laptop Pro 14,3,1216.24,Completed
+ORD-00485,05/07/2025, North ,Chloe Wong,Laptop Air 13,3,957.13,Completed
+ORD-00738,08-Apr-2025,North,Chloe Wong,Laptop Pro 14,3,1380.52,Completed
+ORD-00125,17-Aug-2025,West,Ben Lee,USB-C Hub,2,50.90,Completed
+ORD-01033,11/02/2025,East  ,Ben Lee,Laptop Stand,10,39.80,Completed
+ORD-00393,2025/12/20,west,Ben Lee,Wireless Mouse,10,30.91,Completed
+ORD-00728,2025/09/07,West,Emma Ng,Laptop Pro 14,3,USD 1392.27,Pending
+ORD-00948,2025/04/26,East,Daniel Lim,4K Monitor,1,417.36,Completed
+ORD-01115,2025-05-01,South,Emma Ng,4K Monitor,2,407.82,Completed
+ORD-01044,2025/03/26,North,Emma Ng,Webcam HD,2,73.51,Completed
+ORD-00090,30/07/2025,North,Emma Ng,Mechanical Keyboard,5,127.76 ,Completed
+ORD-01027,05/12/2025,South,Alice Tan,Wireless Mouse,1,USD 29.54,Completed
+ORD-01118,2025/03/29,East,emma ng,Webcam HD,10,USD 72.80,Completed
+ORD-00767,2025-04-07,East,Emma Ng,laptop air 13,2,$885.17,Completed
+ORD-00273,2025-07-07,East,emma ng,Laptop Pro 14,5,1396.83,Completed
+ORD-01190,2025/01/02,east,Alice Tan,USB-C Hub,5,$47.71,Pending
+ORD-01080,2025/05/16,South,Chloe Wong,Webcam HD,2,83.24,Refunded
+ORD-00325,2025/01/04,South,Chloe Wong,Laptop Air 13,1,USD 876.53,Completed
+ORD-01136,2025-08-10,South,Daniel Lim,Laptop Air 13,5,847.28,Completed
+ORD-00960,2025-04-29,West,Chloe Wong,Laptop Stand,2,41.51,Completed
+ORD-00787,2025/11/29,East,Chloe Wong,Laptop Air 13,3,915.96 ,Completed
+ORD-00100,08/26/2025,East,Alice Tan,Laptop Stand,3,41.84,Pending
+ORD-00538,06/08/2025,East,Daniel Lim,Wireless Mouse,3,29.96,Pending
+ORD-01047,18-Oct-2025,EAST,Chloe Wong,4K Monitor,2,399.89,Completed
+ORD-00975,09/17/2025,South,Emma Ng,Laptop Stand,3,35.92,Pending
+ORD-00220,2025-01-23,East,Ben Lee,Laptop Pro 14,2,1181.05,Refunded
+ORD-00658,20-Jun-2025,South,Alice Tan,Wireless Mouse,2,31.02,Completed
+ORD-00178,2025/03/13,West,Alice Tan,Laptop Air 13,3,818.75,Completed
+ORD-00222,2025-04-25,West,Chloe Wong,Laptop Pro 14,5,1187.01,Completed
+ORD-00110,2025-03-12,East,Alice Tan,4K Monitor,1,410.27,Completed
+ORD-00208,30-Apr-2025,North,Alice Tan,webcam hd,1,82.22,Completed
+ORD-01000,2025-02-23,North,Emma Ng,USB-C Hub,,47.84,Pending
+ORD-00457,30/08/2025,South,Emma Ng,Laptop Stand,1,42.05,Completed
+ORD-01087,24/03/2025,North  ,Ben Lee,Laptop Air 13,,954.66,Completed
+ORD-00924,09/22/2025,East,Chloe Wong,Laptop Stand,5,41.18,Completed
+ORD-01183,09/20/2025,East,Emma Ng,Laptop Pro 14,2,1358.96,Completed
+ORD-00334,09/04/2025,South,Ben Lee,Laptop Air 13,2,821.25,Refunded
+ORD-00091,2025/02/25,East,Daniel Lim,Mechanical Keyboard,3,109.83,Pending
+ORD-00315,2025/04/16,West,Alice Tan,Mechanical Keyboard,5,118.28,Completed
+ORD-00828,2025-03-03,West,Ben Lee,Webcam HD,2,83.20,Completed
+ORD-00216,2025-03-21,North,Daniel Lim,Mechanical Keyboard,5,121.06,Completed
+ORD-00373,23/10/2025,East,Daniel Lim,Webcam HD,1,83.43,Pending
+ORD-00891,2025/03/06,East,Daniel Lim,Wireless Mouse,10,28.60,Pending
+ORD-00842,15-Jan-2025, West ,Chloe Wong,4K Monitor,2,399.60,Completed
+ORD-00889,2025-09-08,East,Chloe Wong,Laptop Stand,3,35.49,Refunded
+ORD-01037,01/11/2025,East,Ben Lee,Laptop Stand,3,35.94,Pending
+ORD-00596,16/03/2025,East,Alice Tan,Wireless Mouse,10,27.89,Completed
+ORD-00342,09/13/2025,East,EMMA NG,Wireless Mouse,3,$30.65,Completed
+ORD-00535,04-Dec-2025,East,Alice Tan,Laptop Stand,10,40.00 ,Completed
+ORD-00204,18-Nov-2025,North,Chloe Wong,Webcam HD,,78.24,Completed
+ORD-00049,08-Apr-2025,West,Ben Lee,Laptop Air 13,2,938.57,Completed
+ORD-00687,19-Jul-2025, North ,emma ng,Wireless Mouse,1,USD 31.65,Pending
+ORD-00496,2025-10-25,West,Emma Ng,4K Monitor,5,387.52,Completed
+ORD-00614,01/10/2025,East,Daniel Lim,Webcam HD,2,78.60,Completed
+ORD-01154,2025-03-10,West,Emma Ng,Laptop Pro 14,2,1336.73,Completed
+ORD-00116,10/11/2025,North,Chloe Wong,Laptop Pro 14,5,"$1,395.99",Completed
+ORD-00995,2025-05-12,East,Chloe Wong,Webcam HD,2,$79.57,Refunded
+ORD-00756,10/06/2025,North,Ben Lee,Laptop Air 13,1,866.38,Refunded
+ORD-01157,2025/04/06,West,Chloe Wong,Laptop Air 13,2,938.71,Pending
+ORD-00123,08/13/2025,East,EMMA NG,Laptop Pro 14,1,1186.57,Completed
+ORD-00766,09-Jun-2025,North,Ben Lee,Laptop Stand,1,41.71,Pending
+ORD-00314,2025-03-23,West,Alice Tan,Wireless Mouse,1,30.37,Completed
+ORD-00979,2025-03-24,South,Alice Tan,USB-C Hub,2,53.70,Completed
+ORD-00008,23-Apr-2025,North,Ben Lee,Wireless Mouse,10,26.63,Pending
+ORD-00897,2025/04/18,North,Emma Ng,Wireless Mouse,5,27.58,Completed
+ORD-00978,2025-06-19,East,emma ng,USB-C Hub,5,45.51,Pending
+ORD-01110,2025/07/10,East,Chloe Wong,Laptop Stand,2,39.60,Refunded
+ORD-01187,09-Feb-2025,East,Alice Tan,Laptop Air 13,10,945.46,Refunded
+ORD-00329,2025-11-08,West,Emma Ng,Laptop Pro 14,5,1410.89,Completed
+ORD-00840,05/30/2025,West,Emma Ng,Laptop Stand,10,$41.31,Completed
+ORD-00845,12/02/2025,South,Emma Ng,Laptop Pro 14,2,1263.17,Completed
+ORD-01098,2025-03-21,East,Chloe Wong,Wireless Mouse,2,31.10,Completed
+ORD-00573,2025-01-10, West ,Daniel Lim,4K Monitor,2,378.67,Completed
+ORD-01131,12/02/2025,North,Ben Lee,USB-C Hub,1,$50.81,Completed
+ORD-00270,07/11/2025,south,Ben Lee,Laptop Pro 14,3,1365.73,Completed
+ORD-00977,22-May-2025,West,Ben Lee,4K Monitor,1,416.05,Completed
+ORD-00502,03/07/2025,North,Chloe Wong,Mechanical Keyboard,3,126.37,Completed
+ORD-00785,2025-09-15,West,Daniel Lim,Mechanical Keyboard,10,115.53,Completed
+ORD-00887,13-May-2025,West,Emma Ng,Laptop Air 13,10,$899.37,Refunded
+ORD-00666,11/30/2025,North,Emma Ng,laptop air 13,2,USD 982.73,Completed
+ORD-00695,2025/04/14,West,Chloe Wong,Wireless Mouse,1,26.84,Completed
+ORD-01106,2025/09/22,West,Alice Tan,Laptop Air 13,10,945.48,Refunded
+ORD-00109,29-Aug-2025,West,Chloe Wong,USB-C Hub,3,50.75,Completed
+ORD-00517,03-May-2025,East,Alice Tan,4k monitor,5,383.78,Completed
+ORD-00229,2025-01-26,South  ,Daniel Lim,4K Monitor,2,424.54,Completed
+ORD-00981,2025-04-13,North,Alice Tan,USB-C Hub,3,53.76 ,Refunded
+ORD-00379,14/11/2025,North,DANIEL LIM,Wireless Mouse,2,26.18,Refunded
+ORD-00623,17-Jun-2025,North,Ben Lee,Laptop Stand,10,38.70,Completed
+ORD-00543,2025-12-10,South,Alice Tan,Laptop Stand,,37.76,Completed
+ORD-00678,2025/03/26,West,Alice Tan,Laptop Pro 14,1,1362.24,Completed
+ORD-00694,2025/02/24,South,Daniel Lim,Wireless Mouse,1,26.34 ,Completed
+ORD-00227,06/12/2025,south,Ben Lee,Laptop Stand,2,36.92,Completed
+ORD-00985,11/10/2025,West,Alice Tan,Mechanical Keyboard,10,$129.20,Completed
+ORD-01134,12/09/2025,North,Daniel Lim,4K Monitor,1,387.53,Completed
+ORD-00899,2025/05/26,South,ALICE TAN,Laptop Stand,2,38.03,Completed
+ORD-00697,23/07/2025,West,Daniel Lim,Laptop Stand,1,36.39,Completed
+ORD-00722,17-Oct-2025, East ,Alice Tan,Laptop Pro 14,10,1180.97,Refunded
+ORD-00399,06/28/2025,East,ALICE TAN,Laptop Pro 14,1,1390.92 ,Pending
+ORD-00352,17-Nov-2025,East,Alice Tan,USB-C Hub,2,46.89,Pending
+ORD-01070,05/05/2025,North,Ben Lee,Wireless Mouse,1,26.24,Refunded
+ORD-00495,30/10/2025,South,Emma Ng,Laptop Air 13,1,820.73,Completed
+ORD-00820,2025-05-12,North,Chloe Wong,Laptop Pro 14,3,1309.51,Refunded
+ORD-00966,11/19/2025,West,Daniel Lim,Mechanical Keyboard,1,114.06,Completed
+ORD-00786,04-Jun-2025,East  ,Ben Lee,USB-C Hub,3,45.35 ,Completed
+ORD-00866,2025-09-15,East,daniel lim,Laptop Pro 14,2,1177.81,Pending
+ORD-00082,2025-11-27,South,DANIEL LIM,Mechanical Keyboard,1,116.58,Completed
+ORD-01092,07/15/2025,West,Alice Tan,Laptop Pro 14,10,1282.45,Completed
+ORD-00169,2025/04/15,South,Alice Tan,Mechanical Keyboard,3,116.95,Completed
+ORD-00878,24/07/2025,East,Daniel Lim,Laptop Stand,2,37.07,Refunded
+ORD-00971,07/01/2025,North,Chloe Wong,Webcam HD,1,85.66,Completed
+ORD-00106,17-Dec-2025,North,Ben Lee,Laptop Air 13,5,900.53,Completed
+ORD-00940,2025-09-08,South,Emma Ng,mechanical keyboard,3,116.98,Completed
+ORD-00846,21-Apr-2025,North,Emma Ng,USB-C Hub,1,44.45,Completed
+ORD-00200,2025-08-14,South,Alice Tan,USB-C Hub,5,45.10,Completed
+ORD-00228,2025-04-17, North ,emma ng,Laptop Stand,2,38.71,Completed
+ORD-00401,2025/02/03,East,Daniel Lim,4K Monitor,10,369.84,Completed
+ORD-00961,2025/11/17,West,Ben Lee,Laptop Stand,5,39.66 ,Pending
+ORD-00590,2025-05-09,East,Chloe Wong,USB-C Hub,1,48.74,Pending
+ORD-00546,12-Aug-2025,West  ,Alice Tan,USB-C Hub,1,47.05,Completed
+ORD-01082,2025-07-11,East,Daniel Lim,USB-C Hub,5,48.85 ,Completed
+ORD-00650,16-Jun-2025,West,Alice Tan,Laptop Stand,2,39.83,Completed
+ORD-00253,2025/08/01,North,Emma Ng,Wireless Mouse,1,29.39,Completed
+ORD-00654,2025-07-15,North,alice tan,Webcam HD,2,74.63,Pending
+ORD-00744,2025/10/20,West,Daniel Lim,Webcam HD,2,79.88,Completed
+ORD-01187,09-Feb-2025,East,Alice Tan,Laptop Air 13,10,945.46,Refunded
+ORD-00627,2025/12/07,North,Chloe Wong,Wireless Mouse,1,$26.36,Completed
+ORD-00362,2025/06/01,West,Alice Tan,4K Monitor,3,395.34,Completed
+ORD-00144,07-May-2025,East,Ben Lee,4K Monitor,2,377.04,Completed
+ORD-01108,10/03/2025,West,Ben Lee,USB-C Hub,5,49.68,Completed
+ORD-00404,2025/07/31,SOUTH,Chloe Wong,Laptop Pro 14,,USD 1259.94,Refunded
+ORD-01035,27/11/2025,North,Ben Lee,USB-C Hub,1,47.00,Completed
+ORD-00472,12/06/2025,South,Alice Tan,Wireless Mouse,10,27.61,Completed
+ORD-01142,02/18/2025,North,Ben Lee,4K Monitor,3,$384.50,Completed
+ORD-01184,09/11/2025,North,Chloe Wong,Laptop Pro 14,3,1178.85,Completed
+ORD-00982,28/03/2025,West,Emma Ng,Laptop Pro 14,1,1170.31,Completed
+ORD-00258,04-Jul-2025,West,Alice Tan,USB-C Hub,2,47.71,Pending
+ORD-00993,2025/05/20,West,Ben Lee,Webcam HD,1,77.67,Completed
+ORD-00384,2025/07/18,East,BEN LEE,Laptop Pro 14,2,1227.71,Completed
+ORD-00750,04/02/2025,East,Emma Ng,Laptop Pro 14,,1422.64 ,Completed
+ORD-00181,2025-07-04,South,Emma Ng,4K Monitor,1,369.67,Completed
+ORD-00768,17/05/2025,West,Alice Tan,Laptop Pro 14,10,USD 1341.06,Completed
+ORD-01095,04/02/2025,South,Daniel Lim,USB-C Hub,1,50.19,Completed
+ORD-00172,04-Feb-2025,West,Emma Ng,wireless mouse,1,27.37,Completed
+ORD-00128,2025-06-08,West,Alice Tan,Webcam HD,10,79.41,Completed
+ORD-01162,30-Jul-2025,South,chloe wong,Mechanical Keyboard,,109.21,Refunded
+ORD-00032,03/06/2025,East,Ben Lee,4K Monitor,5,385.13,Pending
+ORD-00970,08-Jun-2025,North,Alice Tan,4K Monitor,1,390.86,Completed
+ORD-00583,2025/11/29,West,Chloe Wong,Laptop Air 13,1,969.58,Completed
+ORD-00863,07/17/2025,East,Emma Ng,Laptop Stand,3,37.53,Completed
+ORD-00703,05-Apr-2025,South,Alice Tan,Wireless Mouse,2,29.40,Pending
+ORD-00340,18-May-2025,West,Daniel Lim,Laptop Stand,3,37.95,Completed
+ORD-00635,04/15/2025,West,Ben Lee,USB-C Hub,1,$48.28,Completed
+ORD-00391,14/07/2025,North,Daniel Lim,Mechanical Keyboard,5,121.65,Refunded
+ORD-01167,2025-01-11,West,Emma Ng,USB-C Hub,5,47.00,Completed
+ORD-00370,05/11/2025,west,Chloe Wong,Mechanical Keyboard,10,117.75,Completed
+ORD-01176,2025/10/23,North,Alice Tan,Webcam HD,1,79.83,Pending
+ORD-01171,2025-01-14,South,emma ng,Laptop Pro 14,1,1190.83,Completed
+ORD-00276,24-Mar-2025,West,ALICE TAN,Laptop Pro 14,10,1405.61 ,Completed
+ORD-00713,25-Oct-2025,South,Ben Lee,Webcam HD,2,82.21 ,Completed
+ORD-00054,2025-02-03,North,Emma Ng,Webcam HD,10,$72.27,Refunded
+ORD-00378,13/01/2025,West,daniel lim,4K Monitor,1,USD 437.91,Completed
+ORD-00244,01/18/2025,NORTH,Daniel Lim,4K Monitor,1,$384.53,Pending
+ORD-00641,2025-12-15,south,Daniel Lim,Wireless Mouse,2,27.54,Refunded
+ORD-00855,03/29/2025,West,Chloe Wong,Laptop Stand,1,40.94,Refunded
+ORD-00191,23/02/2025,NORTH,Chloe Wong,4K Monitor,5,432.56,Refunded
+ORD-00752,17/02/2025,West,Daniel Lim,Mechanical Keyboard,2,118.22,Completed
+ORD-00409,2025-06-04,East,Ben Lee,USB-C Hub,2,45.82,Completed
+ORD-01052,10/23/2025,East,Daniel Lim,Laptop Pro 14,1,1418.36,Completed
+ORD-00537,03/05/2025,South,Daniel Lim,Webcam HD,1,71.42,Completed
+ORD-00926,08/22/2025,South,Chloe Wong,4K Monitor,1,424.42,Completed
+ORD-00326,17/10/2025,West,Daniel Lim,Mechanical Keyboard,2,130.70,Completed
+ORD-01041,2025/07/22,West,Chloe Wong,Wireless Mouse,1,30.82 ,Completed
+ORD-01119,09/21/2025, East ,Ben Lee,Laptop Air 13,10,918.15,Refunded
+ORD-01089,11/11/2025,East,Daniel Lim,webcam hd,1,79.65,Completed
+ORD-00506,2025-05-28,West,Emma Ng,4K Monitor,1,382.83 ,Pending
+ORD-00790,01/05/2025,North,Alice Tan,4K Monitor,10,427.67,Completed
+ORD-00591,2025-11-17,North,Daniel Lim,Laptop Stand,1,35.77,Completed
+ORD-00529,10/09/2025,East,Daniel Lim,Mechanical Keyboard,10,$110.24,Completed
+ORD-00328,2025-10-09,North,Ben Lee,Laptop Pro 14,1,1270.19,Completed
+ORD-00133,10-Jun-2025,South,Emma Ng,Mechanical Keyboard,3,130.31,Completed
+ORD-00158,02-Feb-2025,West  ,Ben Lee,Laptop Pro 14,1,1425.30,Completed
+ORD-00736,16-Mar-2025,West,Daniel Lim,Mechanical Keyboard,,107.44 ,Completed
+ORD-00510,02/02/2025,East,Chloe Wong,USB-C Hub,,46.72,Completed
+ORD-00518,11-May-2025,South,Ben Lee,4K Monitor,1,433.82,Completed
+ORD-01038,05/03/2025,East  ,EMMA NG,Laptop Pro 14,3,1312.66,Completed
+ORD-00589,2025-04-26,South,chloe wong,Webcam HD,1,USD 85.59,Pending
+ORD-00851,09-Jul-2025,east,Alice Tan,Laptop Stand,1,40.11,Pending
+ORD-00876,2025-06-15,North,Alice Tan,Mechanical Keyboard,5,122.77,Completed
+ORD-00849,21-May-2025,West,daniel lim,Laptop Stand,2,35.88,Completed
+ORD-01159,2025-10-17,North,Daniel Lim,Wireless Mouse,2,28.48,Refunded
+ORD-00935,08/10/2025,North,DANIEL LIM,Laptop Pro 14,5,1318.42,Completed
+ORD-01181,05/09/2025,West,Daniel Lim,Laptop Air 13,10,966.15,Completed
+ORD-00626,2025-07-11,west,Chloe Wong,USB-C Hub,2,45.00,Completed
+ORD-00507,2025/09/29,North,Chloe Wong,Laptop Stand,5,36.74,Completed
+ORD-00473,01/10/2025,West,Ben Lee,4K Monitor,1,432.55,Completed
+ORD-00680,2025-09-28,South,Chloe Wong,Laptop Pro 14,10,1419.72,Completed
+ORD-01163,19/02/2025,South,Alice Tan,Laptop Pro 14,2,"$1,219.12",Completed
+ORD-00831,2025/09/18,East,Daniel Lim,Laptop Air 13,1,970.13,Pending
+ORD-00066,24/06/2025,East,Emma Ng,4K Monitor,1,381.67,Completed
+ORD-01034,05/07/2025,West,Chloe Wong,USB-C Hub,1,47.31,Pending
+ORD-00080,2025/01/24,NORTH,Daniel Lim,Laptop Pro 14,2,1427.84,Completed
+ORD-01039,26-Nov-2025,North,Alice Tan,4K Monitor,3,404.24,Completed
+ORD-00282,2025/12/09,South,Daniel Lim,mechanical keyboard,1,117.40,Completed
+ORD-00809,04/16/2025,South,Chloe Wong,Laptop Stand,3,42.10,Completed
+ORD-00631,2025-09-15,North,Daniel Lim,Laptop Pro 14,2,1174.61,Completed
+ORD-00027,28-Jul-2025,South,Alice Tan,Wireless Mouse,2,31.11,Completed
+ORD-00996,2025-09-23,North,Daniel Lim,Laptop Pro 14,10,1293.50,Completed
+ORD-00673,20-Jun-2025,South,Alice Tan,4K Monitor,1,428.43,Completed
+ORD-01085,10/08/2025,West,EMMA NG,4K Monitor,1,421.65,Completed
+ORD-00883,05/25/2025,East,emma ng,Webcam HD,5,$79.54,Completed
+ORD-00201,2025-05-02,West,Ben Lee,USB-C Hub,3,52.54,Pending
+ORD-00923,29/09/2025,South,Ben Lee,Laptop Stand,1,USD 40.44,Completed
+ORD-01075,2025/12/10,South,Ben Lee,Mechanical Keyboard,5,117.81,Completed
+ORD-00919,03/11/2025,West,Alice Tan,Laptop Stand,2,39.54,Pending
+ORD-00412,09-Jun-2025,South,Ben Lee,Laptop Pro 14,2,1335.07,Completed
+ORD-00931,24-Aug-2025,East,Alice Tan,Mechanical Keyboard,3,111.84,Completed
+ORD-00853,03-Jan-2025,West,Chloe Wong,4K Monitor,2,419.35,Completed
+ORD-00184,11/17/2025,South,Daniel Lim,Laptop Stand,2,38.67,Completed
+ORD-00366,2025/08/01,East,Alice Tan,Mechanical Keyboard,1,$126.70,Completed
+ORD-00094,2025/03/22,West,Daniel Lim,Laptop Pro 14,1,1239.79,Completed
+ORD-01107,13/07/2025,EAST,Alice Tan,mechanical keyboard,,124.51,Completed
+ORD-00671,2025/08/06,East,Ben Lee,Wireless Mouse,2,26.51,Pending
+ORD-00712,2025/07/31,South,Emma Ng,Mechanical Keyboard,1,126.19,Refunded
+ORD-00037,2025/11/10,West,Ben Lee,Webcam HD,10,85.28,Completed
+ORD-00770,10/08/2025,North,Alice Tan,Laptop Air 13,1,925.31,Completed
+ORD-00469,04/07/2025,South,Emma Ng,Laptop Air 13,1,965.85,Completed
+ORD-01094,26/01/2025,East,Chloe Wong,4K Monitor,1,401.02,Completed
+ORD-00559,01/19/2025,East,Emma Ng,wireless mouse,1,31.77,Completed
+ORD-00642,2025-03-26,West,Daniel Lim,Webcam HD,2,82.03,Completed
+ORD-01017,12/02/2025,East,ALICE TAN,Laptop Stand,1,41.38,Completed
+ORD-00356,08-May-2025,North,Alice Tan,Webcam HD,10,75.01,Completed
+ORD-00291,10/06/2025,East,Ben Lee,USB-C Hub,2,46.16,Refunded
+ORD-00902,26/08/2025,West,Daniel Lim,Wireless Mouse,1,$28.32,Pending
+ORD-00663,12/19/2025,North,Daniel Lim,Wireless Mouse,5,30.60,Completed
+ORD-00068,2025/07/15, North ,Alice Tan,webcam hd,1,78.93,Completed
+ORD-00956,19-Mar-2025,West,Emma Ng,Webcam HD,2,75.50,Completed
+ORD-00567,2025-08-31,East,Alice Tan,Laptop Pro 14,1,1414.37,Completed
+ORD-00525,17/05/2025,West,Emma Ng,4K Monitor,10,389.59,Completed
+ORD-00625,2025-09-30,North,Chloe Wong,USB-C Hub,10,50.93,Completed
+ORD-00754,13-Apr-2025,North,Alice Tan,Mechanical Keyboard,3,128.47,Completed
+ORD-01031,2025/04/18,East,Daniel Lim,Mechanical Keyboard,2,128.76,Completed
+ORD-00621,04/22/2025,North,Alice Tan,Laptop Stand,5,42.84,Completed
+ORD-01155,12/20/2025,East,alice tan,Laptop Air 13,2,USD 964.09,Completed
+ORD-00134,02/19/2025,West,Ben Lee,Laptop Pro 14,2,1414.71,Completed
+ORD-00664,08-Sep-2025,West,Alice Tan,USB-C Hub,1,USD 49.85,Completed
+ORD-01166,13-Dec-2025,South,Daniel Lim,Mechanical Keyboard,10,110.85,Completed
+ORD-00520,08/10/2025,North,Ben Lee,Mechanical Keyboard,10,123.65,Completed
+ORD-01014,05/24/2025,SOUTH,Chloe Wong,Laptop Pro 14,10,1251.86,Completed
+ORD-00837,2025-08-21,North,Emma Ng,Laptop Air 13,3,969.53,Completed
+ORD-00734,06/02/2025,East,alice tan,Laptop Stand,5,39.19,Completed
+ORD-00613,17-Jan-2025,East,Emma Ng,Wireless Mouse,1,31.77,Completed
+ORD-01072,07-Jan-2025,North,Ben Lee,Laptop Air 13,2,914.39,Completed
+ORD-01172,07/10/2025,East,Alice Tan,Laptop Pro 14,1,1355.95,Completed
+ORD-00556,2025-03-20,North,Daniel Lim,Mechanical Keyboard,3,126.60,Completed
+ORD-00679,12/13/2025,South,Alice Tan,Laptop Air 13,5,811.60,Completed
+ORD-00236,2025/03/30,East,Alice Tan,Wireless Mouse,2,29.54,Pending
+ORD-00748,03/15/2025, North ,Chloe Wong,Laptop Pro 14,1,USD 1197.92,Completed
+ORD-00709,01/23/2025,East,Daniel Lim,Wireless Mouse,1,28.59,Pending
+ORD-00620,10/19/2025,North,Ben Lee,Laptop Air 13,5,934.72,Completed
+ORD-01104,2025-09-20, West ,Ben Lee,Laptop Stand,1,42.39,Completed
+ORD-00818,10/02/2025,West,Chloe Wong,4K Monitor,3,435.17,Completed
+ORD-00339,2025/09/23,North,Daniel Lim,Laptop Stand,3,40.48,Completed
+ORD-00039,05-Oct-2025,West,Emma Ng,laptop stand,5,35.59 ,Completed
+ORD-00130,26/05/2025, East ,Emma Ng,Laptop Air 13,2,844.40,Pending
+ORD-01060,2025-04-18,North,Ben Lee,Laptop Air 13,2,813.33,Completed
+ORD-00017,08/02/2025,North,Ben Lee,Laptop Stand,1,35.49,Completed
+ORD-01086,13-Nov-2025, South ,Ben Lee,4K Monitor,,426.19,Completed
+ORD-00803,2025/03/13,North,Alice Tan,USB-C Hub,3,53.16,Completed
+ORD-00296,08/02/2025,North,Daniel Lim,Wireless Mouse,,30.36,Pending
+ORD-00555,22-Feb-2025,North,Chloe Wong,Laptop Pro 14,1,1212.50,Refunded
+ORD-00624,10/01/2025,West,Alice Tan,Laptop Air 13,1,USD 861.99,Completed
+ORD-00639,22/07/2025,North,Alice Tan,Mechanical Keyboard,5,118.75 ,Completed
+ORD-00441,03/15/2025,North,Chloe Wong,webcam hd,2,80.80 ,Completed
+ORD-00241,10/11/2025,South,Alice Tan,USB-C Hub,1,53.28,Completed
+ORD-00275,2025/08/03,North,Emma Ng,Laptop Air 13,1,859.93,Completed
+ORD-01103,01-Aug-2025,North,Alice Tan,Laptop Pro 14,2,1415.32,Completed
+ORD-00792,2025/03/17, West ,Alice Tan,laptop pro 14,2,1287.85,Completed
+ORD-01009,03/02/2025,West,Ben Lee,Mechanical Keyboard,3,120.99 ,Completed
+ORD-00605,18-May-2025,South,Ben Lee,Webcam HD,1,74.37,Pending
+ORD-00571,2025/04/30,West,Alice Tan,Webcam HD,3,79.65,Completed
+ORD-00041,15-Nov-2025,North  ,Ben Lee,Laptop Pro 14,5,USD 1322.87,Completed
+ORD-00609,2025-03-12,East,Daniel Lim,4K Monitor,1,420.55,Completed
+ORD-00774,01/01/2025,North,Emma Ng,Laptop Stand,2,38.79,Refunded
+ORD-00677,2025-09-24,North,Daniel Lim,USB-C Hub,2,50.33,Completed
+ORD-01011,01/21/2025,West,Alice Tan,Wireless Mouse,5,28.84,Completed
+ORD-00582,27-Nov-2025,North,Daniel Lim,Laptop Pro 14,10,1170.21,Completed
+ORD-00894,12-Aug-2025,North,Ben Lee,4k monitor,1,381.19,Completed
+ORD-00143,10/15/2025,East,Daniel Lim,Mechanical Keyboard,10,119.61,Completed
+ORD-00585,05-Jun-2025,East  ,Emma Ng,USB-C Hub,2,53.71 ,Completed
+ORD-00874,03/29/2025,South,Daniel Lim,Laptop Pro 14,5,1209.55,Completed
+ORD-00179,21-Nov-2025,East,Daniel Lim,4K Monitor,10,398.25,Completed
+ORD-00789,2025-01-01,South,daniel lim,Wireless Mouse,1,29.11,Completed
+ORD-00667,01/12/2025,north,Emma Ng,Wireless Mouse,1,29.36,Completed
+ORD-00536,2025/10/19,East,Alice Tan,Wireless Mouse,2,31.11,Completed
+ORD-00075,2025-05-27,South,Ben Lee,USB-C Hub,3,46.25,Completed
+ORD-00751,12/01/2025,North,Alice Tan,Wireless Mouse,2,31.13,Completed
+ORD-01133,2025/03/04,East,Alice Tan,Laptop Pro 14,2,1186.24,Refunded
+ORD-01198,12/08/2025,South,Emma Ng,Wireless Mouse,,26.37 ,Completed
+ORD-01169,2025-02-07,North,Chloe Wong,USB-C Hub,1,47.42,Completed
+ORD-01045,2025/11/08,East,Chloe Wong,4K Monitor,3,374.72,Completed
+ORD-00965,04-Aug-2025,West,Emma Ng,Webcam HD,1,USD 76.59,Completed
+ORD-00108,26-Mar-2025,South,Emma Ng,Laptop Stand,1,38.30,Completed
+ORD-01146,16-Dec-2025,East,Ben Lee,USB-C Hub,5,44.15,Completed
+ORD-00954,2025/09/19,South,Ben Lee,USB-C Hub,1,52.33,Completed
+ORD-00344,10/03/2025,West,Daniel Lim,Wireless Mouse,2,28.16,Completed
+ORD-00796,2025-12-14,SOUTH,Daniel Lim,Laptop Stand,3,41.03,Completed
+ORD-00909,05/05/2025,East,Alice Tan,Laptop Stand,2,37.16,Completed
+ORD-00375,2025-07-21,East,Ben Lee,Laptop Stand,1,36.83 ,Refunded
+ORD-00676,24-Nov-2025,West,Ben Lee,Mechanical Keyboard,2,123.24,Refunded
+ORD-00696,2025/03/02,North,Chloe Wong,Webcam HD,1,$78.73,Completed
+ORD-00403,2025-09-12,South,BEN LEE,Laptop Stand,10,41.40,Completed
+ORD-01025,10-Jun-2025,North,Daniel Lim,USB-C Hub,2,49.85,Completed
+ORD-00164,26/11/2025,West  ,Ben Lee,Webcam HD,3,82.10,Completed
+ORD-00691,2025-09-19,East,Chloe Wong,webcam hd,1,75.91,Completed
+ORD-00336,2025/04/08,South,Ben Lee,Laptop Stand,2,36.93,Completed
+ORD-00358,08-Jan-2025,West,Alice Tan,Wireless Mouse,2,29.49,Pending
+ORD-00645,2025-04-06,South,Daniel Lim,USB-C Hub,1,51.45,Completed
+ORD-00230,2025-03-04,South  ,Chloe Wong,Laptop Pro 14,1,1384.83,Pending
+ORD-00185,11/30/2025,South,Ben Lee,Wireless Mouse,2,27.96,Completed
+ORD-00974,15/05/2025,South,chloe wong,Webcam HD,3,76.86,Refunded
+ORD-00861,12/11/2025,South,Alice Tan,Laptop Stand,,36.41,Completed
+ORD-00675,03/04/2025,South,Emma Ng,Mechanical Keyboard,5,118.45,Completed
+ORD-00087,2025-10-08,East,Emma Ng,Mechanical Keyboard,5,130.77,Refunded
+ORD-00148,10/09/2025,West,Ben Lee,Wireless Mouse,5,29.89,Completed
+ORD-01105,2025/05/19,East  ,Chloe Wong,Laptop Pro 14,1,1301.47,Completed
+ORD-00386,2025/09/26,South,Emma Ng,Wireless Mouse,5,31.87,Refunded
+ORD-01145,21/06/2025,North,Alice Tan,Wireless Mouse,1,29.86,Completed
+ORD-00783,05/14/2025,West,Chloe Wong,4K Monitor,2,$372.93,Completed
+ORD-00374,20/11/2025,North,Emma Ng,Webcam HD,1,75.92,Completed
+ORD-00016,01/12/2025,East,Alice Tan,Laptop Air 13,1,USD 881.49,Completed
+ORD-00812,13-Feb-2025,West,Daniel Lim,Laptop Pro 14,2,"$1,391.12",Completed
+ORD-00881,02/11/2025,WEST,Ben Lee,Wireless Mouse,2,31.08,Completed
+ORD-00151,2025-09-16,North,Daniel Lim,Laptop Stand,2,36.60,Completed
+ORD-00827,27/05/2025,West,Ben Lee,Mechanical Keyboard,,109.91,Completed
+ORD-00799,2025/01/03,North,Emma Ng,Mechanical Keyboard,5,120.63,Completed
+ORD-00531,19-Mar-2025,North,Alice Tan,Laptop Stand,1,USD 36.57,Completed
+ORD-00301,21-Sep-2025,North,Ben Lee,Laptop Air 13,1,839.20,Completed
+ORD-01194,07-Mar-2025,South,Alice Tan,Webcam HD,1,85.93,Completed
+ORD-00509,11/11/2025,East,Ben Lee,Webcam HD,1,79.35,Completed
+ORD-00882,08/30/2025,West,Ben Lee,Webcam HD,2,$85.52,Completed
+ORD-01005,2025/12/04,West,Chloe Wong,Mechanical Keyboard,10,$120.15,Completed
+ORD-00635,04/15/2025,West,Ben Lee,USB-C Hub,1,$48.28,Completed
+ORD-00717,2025-09-28,East,Alice Tan,4K Monitor,10,391.94 ,Pending
+ORD-00490,16/03/2025,South,alice tan,4K Monitor,3,$387.21,Completed
+ORD-00465,2025/11/13,North,Ben Lee,Laptop Pro 14,3,1264.30,Completed
+ORD-00122,30/06/2025,North  ,Chloe Wong,Webcam HD,2,81.20,Completed
+ORD-00946,08/01/2025,North,Daniel Lim,Laptop Stand,1,41.78,Refunded
+ORD-00413,02/28/2025,East,Chloe Wong,Laptop Pro 14,1,1222.77,Pending
+ORD-00439,05/10/2025,North,Chloe Wong,4K Monitor,10,411.81,Completed
+ORD-00652,05-May-2025,north,Ben Lee,USB-C Hub,1,51.48,Completed
+ORD-00737,2025/08/19,NORTH,Daniel Lim,Wireless Mouse,10,29.81,Completed
+ORD-00558,29-Jul-2025,west,Emma Ng,Laptop Stand,3,USD 42.46,Completed
+ORD-01026,20/03/2025,North,Chloe Wong,Wireless Mouse,5,28.53,Completed
+ORD-00720,08/28/2025,West,BEN LEE,Laptop Stand,3,40.19,Completed
+ORD-00805,2025/04/27,South,Daniel Lim,Laptop Pro 14,1,1175.95,Completed
+ORD-00505,12-Dec-2025,East,Chloe Wong,USB-C Hub,3,48.97,Completed
+ORD-00024,2025-06-25,East,ALICE TAN,USB-C Hub,2,49.05,Completed
+ORD-00757,04/19/2025,North,Daniel Lim,USB-C Hub,1,49.60,Completed
+ORD-00461,2025/08/29,West,Alice Tan,Laptop Pro 14,5,1307.09,Completed
+ORD-01126,2025/12/04,South,Alice Tan,4K Monitor,5,430.09,Completed
+ORD-00973,11-Jan-2025,South,Emma Ng,Laptop Stand,10,38.33,Completed
+ORD-00235,2025/04/30,South,Alice Tan,Wireless Mouse,1,27.54,Completed
+ORD-00347,2025-02-02,West,Alice Tan,Laptop Stand,1,35.31,Completed
+ORD-00030,2025-05-14,West,Chloe Wong,Wireless Mouse,2,26.32,Completed
+ORD-00419,04/09/2025,West,Daniel Lim,Webcam HD,1,76.48,Completed
+ORD-00327,2025-06-07,North,Daniel Lim,Mechanical Keyboard,5,124.61,Completed
+ORD-00698,2025-12-23,East,Ben Lee,Laptop Pro 14,10,1299.99,Completed
+ORD-01170,03/13/2025,west,Chloe Wong,usb-c hub,,49.18,Completed
+ORD-00182,03/11/2025,West,Alice Tan,Mechanical Keyboard,5,107.39,Pending
+ORD-00528,2025-11-03,West,Daniel Lim,Laptop Pro 14,1,1235.00 ,Pending
+ORD-00869,06/12/2025,West,alice tan,Wireless Mouse,3,29.09,Completed
+ORD-00118,2025/08/23,South,Chloe Wong,Laptop Pro 14,2,1221.47,Completed
+ORD-00898,2025/09/29,East,daniel lim,Mechanical Keyboard,2,USD 114.05,Completed
+ORD-01040,2025/02/22,East,CHLOE WONG,Wireless Mouse,2,USD 26.63,Completed
+ORD-00553,09/15/2025,North,Alice Tan,Laptop Pro 14,1,1256.84,Completed
+ORD-01111,06-May-2025,East,Emma Ng,USB-C Hub,1,48.35,Completed
+ORD-00896,24-Aug-2025,West,Alice Tan,Webcam HD,3,79.66,Completed
+ORD-00238,06/15/2025,South,Emma Ng,Laptop Pro 14,1,1207.48,Completed
+ORD-00847,04/28/2025,North,Daniel Lim,USB-C Hub,1,46.77 ,Completed
+ORD-00888,2025-02-10,East,Emma Ng,Wireless Mouse,1,28.06,Completed
+ORD-00437,04/02/2025,North,Chloe Wong,laptop pro 14,5,1194.48,Completed
+ORD-00777,2025/12/23,North,Daniel Lim,Webcam HD,3,74.36,Completed
+ORD-01137,2025-09-11,East,ALICE TAN,Laptop Stand,5,37.61,Completed
+ORD-01049,01/01/2025, South ,Ben Lee,4K Monitor,10,389.54,Completed
+ORD-00622,2025-09-17,West,Daniel Lim,Laptop Pro 14,10,1176.04,Completed
+ORD-00704,2025-08-07,WEST,Alice Tan,USB-C Hub,10,53.01,Completed
+ORD-00749,12-Jan-2025,North,Daniel Lim,Webcam HD,,78.79,Completed
+ORD-00804,02-Aug-2025,East,alice tan,Laptop Air 13,10,979.30,Completed
+ORD-00988,2025/09/09,West,Chloe Wong,Laptop Air 13,3,910.01,Completed
+ORD-00850,2025/05/06,West,Emma Ng,Webcam HD,1,86.79,Completed
+ORD-00753,10/28/2025,West,Daniel Lim,4K Monitor,1,422.47,Pending
+ORD-00349,2025/12/24,West,Emma Ng,Wireless Mouse,10,29.76,Completed
+ORD-00560,09/28/2025,South,Emma Ng,Wireless Mouse,5,28.69,Completed
+ORD-00587,14-Dec-2025,West  ,Alice Tan,Laptop Pro 14,2,1345.94,Completed
+ORD-00176,2025/02/18,West,Alice Tan,Laptop Pro 14,2,1224.03,Pending
+ORD-00430,2025/11/02,West,emma ng,4K Monitor,2,364.00,Completed
+ORD-00953,2025/02/26,East,Daniel Lim,Laptop Air 13,2,831.81,Completed
+ORD-00532,2025-01-21,West,Alice Tan,Laptop Stand,3,42.81,Completed
+ORD-00268,10/19/2025,South,Daniel Lim,laptop stand,1,37.57,Completed
+ORD-00199,2025/05/28,West,Alice Tan,Wireless Mouse,10,29.38,Completed
+ORD-01068,12/25/2025,South,Emma Ng,laptop air 13,1,838.67,Completed
+ORD-01012,11-Jan-2025,North,Alice Tan,Laptop Stand,3,42.01,Completed
+ORD-00187,29/12/2025,North,Daniel Lim,USB-C Hub,10,USD 51.92,Completed
+ORD-00848,12/27/2025,South  ,Ben Lee,Webcam HD,,71.33,Completed
+ORD-00550,2025/05/28,South,Emma Ng,USB-C Hub,10,47.47,Completed
+ORD-00604,2025/08/29,East,Daniel Lim,Laptop Air 13,1,900.55,Completed
+ORD-00841,06-Dec-2025,East,Chloe Wong,Webcam HD,1,73.88,Completed
+ORD-00916,03/10/2025,South,Ben Lee,Laptop Air 13,1,889.40,Completed
+ORD-00504,2025/09/21,West,Chloe Wong,Webcam HD,2,71.42,Completed
+ORD-00900,2025-07-25,West,Chloe Wong,Webcam HD,3,82.97,Completed
+ORD-00095,14/12/2025,West,ALICE TAN,Laptop Stand,2,35.45,Completed
+ORD-00655,14/07/2025,South,Daniel Lim,Laptop Pro 14,2,1185.18,Refunded
+ORD-00166,2025/04/08,North,Ben Lee,Laptop Pro 14,2,1267.09,Completed
+ORD-00854,11-Feb-2025,west,Ben Lee,laptop air 13,5,$934.83,Completed
+ORD-00015,20-Oct-2025,West,Alice Tan,Laptop Stand,2,41.22,Completed
+ORD-00077,2025-03-26,East,Chloe Wong,4K Monitor,10,436.30,Completed
+ORD-01180,2025/12/08,North,Daniel Lim,4K Monitor,5,382.85 ,Completed
+ORD-00938,30/04/2025,West  ,Alice Tan,usb-c hub,3,44.37,Completed
+ORD-00175,17-Dec-2025,West,DANIEL LIM,Laptop Air 13,1,USD 825.91,Completed
+ORD-00526,2025-01-15,West,Chloe Wong,4K Monitor,2,377.89,Completed
+ORD-00684,26-Apr-2025,East,Ben Lee,Laptop Stand,5,38.02,Completed
+ORD-00512,10/09/2025,West,Alice Tan,Wireless Mouse,1,31.69 ,Completed
+ORD-00810,2025/12/24,West,Emma Ng,Laptop Air 13,1,$871.43,Completed
+ORD-00759,22-Oct-2025,west,Chloe Wong,Laptop Pro 14,10,"$1,242.98",Completed
+ORD-00475,2025/01/21,West,Ben Lee,Wireless Mouse,1,$27.89,Completed
+ORD-00927,2025/10/14,West,ALICE TAN,USB-C Hub,2,50.15,Completed
+ORD-00146,02/10/2025,West,Emma Ng,Mechanical Keyboard,10,122.71,Completed
+ORD-00950,2025/05/02,West,Chloe Wong,Wireless Mouse,5,27.97,Completed
+ORD-00111,19-Aug-2025,South,Chloe Wong,Wireless Mouse,5,26.63,Refunded
+ORD-00548,11-Oct-2025,West,Emma Ng,4K Monitor,1,398.00,Completed
+ORD-00482,02/04/2025,East,Daniel Lim,Mechanical Keyboard,,120.56,Refunded
+ORD-00408,2025-10-20,East,Chloe Wong,Webcam HD,1,80.50,Completed
+ORD-00105,03/14/2025,west,Chloe Wong,Mechanical Keyboard,2,130.13,Completed
+ORD-00852,2025-11-12,West,Chloe Wong,Laptop Stand,2,35.56,Completed
+ORD-00257,2025-09-21,west,Ben Lee,wireless mouse,1,27.90,Completed
+ORD-00699,30/05/2025,East,Chloe Wong,Laptop Pro 14,1,"$1,413.84",Refunded
+ORD-00210,10/03/2025,North,Ben Lee,Wireless Mouse,1,29.18,Completed
+ORD-00463,03/12/2025,East,Alice Tan,webcam hd,1,83.58 ,Refunded
+ORD-00243,2025/03/27,East,Alice Tan,Webcam HD,10,85.03,Completed
+ORD-00055,2025/11/13,West,Emma Ng,USB-C Hub,5,48.52,Completed
+ORD-01019,24/08/2025,North,Ben Lee,Mechanical Keyboard,1,121.68,Completed
+ORD-01193,2025-01-22,East,Daniel Lim,Mechanical Keyboard,1,125.62,Refunded
+ORD-00283,2025-09-16,North,Chloe Wong,Laptop Stand,10,41.88,Refunded
+ORD-00442,2025/12/01,East,Chloe Wong,Laptop Pro 14,1,1341.76,Completed
+ORD-00194,2025/08/08,South,Alice Tan,Webcam HD,1,82.23,Completed
+ORD-00089,2025/08/31,North,Chloe Wong,Laptop Air 13,1,958.65,Refunded
+ORD-00603,2025/01/24,East,Chloe Wong,USB-C Hub,2,51.84,Completed
+ORD-00811,03/04/2025,South,Daniel Lim,Mechanical Keyboard,1,$107.95,Completed
+ORD-00289,2025/01/25,South,Ben Lee,Webcam HD,10,USD 85.71,Pending
+ORD-01084,2025-01-27,West,Chloe Wong,Webcam HD,10,USD 80.51,Completed
+ORD-00662,2025-04-02,East,Ben Lee,Laptop Pro 14,1,1423.78,Completed
+ORD-00346,2025-08-16,South,Ben Lee,Mechanical Keyboard,10,116.95,Completed
+ORD-00101,2025-06-08,East,Alice Tan,Laptop Stand,10,35.39,Pending
+ORD-00542,09/15/2025,West,Ben Lee,Laptop Pro 14,1,USD 1361.49,Completed
+ORD-00629,2025/04/22,West,Alice Tan,Webcam HD,2,83.23,Completed
+ORD-00608,05/22/2025,EAST,Chloe Wong,USB-C Hub,1,45.26,Completed
+ORD-00153,17-May-2025,North,Chloe Wong,Mechanical Keyboard,2,$120.96,Completed
+ORD-00917,2025-01-21,South,Alice Tan,4K Monitor,2,USD 366.39,Completed
+ORD-00447,2025/10/02,North,Daniel Lim,Wireless Mouse,2,31.46,Completed
+ORD-01165,11/07/2025,WEST,BEN LEE,Laptop Pro 14,1,1346.92,Completed
+ORD-00249,2025/02/19,West,Emma Ng,Laptop Air 13,3,USD 954.41,Completed
+ORD-00771,11/14/2025,South,Chloe Wong,Webcam HD,5,$77.31,Completed
+ORD-01064,18-Feb-2025,South,DANIEL LIM,Laptop Stand,5,40.94,Completed
+ORD-01016,12/23/2025,West,Chloe Wong,Webcam HD,3,76.90,Refunded
+ORD-00958,05/05/2025,West,Ben Lee,Webcam HD,1,USD 81.31,Completed
+ORD-01114,01-Aug-2025,EAST,Daniel Lim,Laptop Stand,1,37.70,Pending
+ORD-00651,10-Apr-2025,North,Emma Ng,Wireless Mouse,1,26.84,Completed
+ORD-00488,2025/02/10,West,Alice Tan,Webcam HD,1,72.33 ,Pending
+ORD-00865,04/08/2025,North,Chloe Wong,Webcam HD,3,USD 73.93,Completed
+ORD-00449,02/02/2025,West,Emma Ng,USB-C Hub,5,47.41,Completed
+ORD-00231,02/08/2025,West,Alice Tan,laptop pro 14,1,1220.48,Completed
+ORD-00778,03/31/2025,West,Chloe Wong,4K Monitor,3,429.96 ,Pending
+ORD-00001,2025-11-24,South,Alice Tan,Laptop Air 13,,942.43,Pending
+ORD-00335,2025/05/15,EAST,Daniel Lim,USB-C Hub,2,45.01,Completed
+ORD-00161,2025-02-27,North,Alice Tan,Laptop Pro 14,5,1328.86 ,Completed
+ORD-00209,03/03/2025,South,Alice Tan,Webcam HD,1,78.65,Completed
+ORD-01148,2025-01-01,East,Emma Ng,Laptop Air 13,5,915.31,Completed
+ORD-00420,2025-12-31,West,Alice Tan,Laptop Stand,1,USD 39.72,Pending
+ORD-00022,21/02/2025,South,Alice Tan,Laptop Air 13,2,900.06,Completed
+ORD-00951,15/11/2025,East,Emma Ng,4K Monitor,10,368.50,Completed
+ORD-00163,05-Dec-2025,North,Emma Ng,USB-C Hub,5,47.04,Refunded
+ORD-00957,01/01/2025,East,Emma Ng,Laptop Air 13,2,USD 936.46,Completed
+ORD-00223,05/06/2025,West,Ben Lee,usb-c hub,10,47.71,Completed
+ORD-00822,2025/11/15,East,emma ng,Laptop Pro 14,1,1264.78,Refunded
+ORD-00707,01/23/2025,WEST,Alice Tan,Laptop Air 13,2,827.54,Completed
+ORD-00415,2025/11/19,South,emma ng,Laptop Stand,3,37.54,Completed
+ORD-00351,30-May-2025,South,Emma Ng,USB-C Hub,1,49.47,Completed
+ORD-00733,2025-07-05,South,Daniel Lim,Webcam HD,10,74.47,Completed
+ORD-00644,2025/09/26,South,Ben Lee,Webcam HD,2,$82.68,Completed
+ORD-00272,25/06/2025,South,DANIEL LIM,Laptop Stand,3,40.95,Completed
+ORD-00183,2025-03-28,WEST,Daniel Lim,Wireless Mouse,2,27.85,Completed
+ORD-00476,23-May-2025,West,Alice Tan,USB-C Hub,1,44.92,Completed
+ORD-00930,13-Oct-2025,North,Chloe Wong,4K Monitor,1,370.31,Completed
+ORD-00416,12/24/2025,West,Ben Lee,Laptop Stand,1,38.65,Completed
+ORD-00407,10/02/2025,East,CHLOE WONG,Laptop Pro 14,2,1319.11,Completed
+ORD-00400,21-Oct-2025,East,Alice Tan,Wireless Mouse,10,30.45,Completed
+ORD-00138,07/11/2025,South,Daniel Lim,Mechanical Keyboard,3,$125.07,Completed
+ORD-00539,05/08/2025, West ,Daniel Lim,Mechanical Keyboard,1,117.43,Completed
+ORD-01074,2025-03-26,East,Chloe Wong,USB-C Hub,,52.33,Completed
+ORD-00814,11/15/2025,North,Emma Ng,Webcam HD,5,83.47,Refunded
+ORD-00047,30/11/2025,East,Ben Lee,4K Monitor,10,USD 396.20,Completed
+ORD-00540,12/02/2025,West,Ben Lee,4K Monitor,10,394.00,Refunded
+ORD-00137,2025/04/10,West,Chloe Wong,Mechanical Keyboard,2,108.85,Completed
+ORD-00330,14/04/2025,South,Alice Tan,4K Monitor,2,361.78,Completed
+ORD-00098,2025-08-12,East,Ben Lee,Webcam HD,1,77.35 ,Refunded
+ORD-00788,15-Oct-2025,South,Chloe Wong,Laptop Stand,1,36.84,Pending
+ORD-00972,08/10/2025,South,Ben Lee,wireless mouse,2,26.25,Completed
+ORD-01008,07/09/2025,north,Alice Tan,Mechanical Keyboard,1,USD 123.19,Completed
+ORD-00189,26-Dec-2025,East,emma ng,Laptop Air 13,1,947.36,Completed
+ORD-00040,19-Jul-2025,East,Alice Tan,Webcam HD,2,78.81,Completed
+ORD-01175,03/18/2025,South,Chloe Wong,Webcam HD,5,80.00,Completed
+ORD-00281,2025/03/08,West,Alice Tan,Laptop Stand,10,35.98,Pending
+ORD-00267,26/10/2025,North,Daniel Lim,Laptop Air 13,10,969.02,Completed
+ORD-00844,11/11/2025,North,Alice Tan,Mechanical Keyboard,1,121.50 ,Completed
+ORD-00826,05-Jul-2025,West,Ben Lee,Laptop Stand,2,38.60,Pending
+ORD-00287,24/01/2025,WEST,Ben Lee,Wireless Mouse,10,26.91,Completed
+ORD-00920,08/22/2025,East,Ben Lee,Laptop Pro 14,2,1365.13,Completed
+ORD-00120,2025-07-17,West,Emma Ng,Mechanical Keyboard,1,USD 118.91,Completed
+ORD-00333,01-Mar-2025,West,Ben Lee,4K Monitor,2,414.50,Completed
+ORD-01141,2025/07/28,East,Alice Tan,Laptop Pro 14,1,1424.03,Pending
+ORD-00577,2025/01/15,North,Emma Ng,Webcam HD,2,85.54,Completed
+ORD-00907,2025-10-01,North,Daniel Lim,Laptop Pro 14,10,1294.01,Completed
+ORD-00903,2025-11-03,South,Daniel Lim,Webcam HD,1,76.24,Pending
+ORD-01015,03-Dec-2025,north,EMMA NG,laptop stand,1,37.70,Completed
+ORD-00035,2025-08-22,West,Ben Lee,Webcam HD,2,82.45,Completed
+ORD-00554,2025-10-13,North,Daniel Lim,4K Monitor,1,427.20,Completed
+ORD-00574,2025-09-28,North,Emma Ng,Mechanical Keyboard,5,USD 113.22,Completed
+ORD-00509,11/11/2025,East,Ben Lee,Webcam HD,1,79.35,Completed
+ORD-00755,2025-09-29,South,Daniel Lim,Mechanical Keyboard,5,107.81,Completed
+ORD-00104,2025/11/03,North,Daniel Lim,Laptop Pro 14,3,1186.22,Completed
+ORD-00295,14/04/2025,East,Emma Ng,Laptop Stand,2,42.21 ,Completed
+ORD-00843,2025/05/18,North,Daniel Lim,Laptop Stand,2,37.75,Completed
+ORD-00908,11/19/2025, North ,Emma Ng,Laptop Stand,5,$41.24,Completed
+ORD-00402,2025/11/19,East,Chloe Wong,Laptop Air 13,10,939.29,Completed
+ORD-01069,12/22/2025,North,Emma Ng,Mechanical Keyboard,1,$117.06,Completed
+ORD-00363,10/03/2025,West,Ben Lee,Webcam HD,2,79.38,Completed
+ORD-00881,02/11/2025,WEST,Ben Lee,Wireless Mouse,2,31.08,Completed
+ORD-00929,02/07/2025,South,Emma Ng,Mechanical Keyboard,5,$126.72,Pending
+ORD-00112,11-Feb-2025,North,Chloe Wong,Mechanical Keyboard,2,USD 107.77,Completed
+ORD-00659,03/23/2025,West,Daniel Lim,Laptop Pro 14,5,1256.76,Completed
+ORD-01173,03/17/2025,North,Chloe Wong,Laptop Stand,2,38.93,Completed
+ORD-00601,15-May-2025,South,Alice Tan,Laptop Air 13,1,958.59,Completed
+ORD-00165,26-Aug-2025,South,Chloe Wong,Laptop Pro 14,5,1420.53,Completed
+ORD-00572,2025-10-14,North,Emma Ng,Laptop Air 13,2,980.84,Completed
+ORD-00115,2025/01/01,South,Alice Tan,Mechanical Keyboard,2,120.68,Refunded
+ORD-01081,10/25/2025,East,Ben Lee,Wireless Mouse,1,30.30,Completed
+ORD-00769,2025/06/20,North  ,Daniel Lim,Laptop Pro 14,10,"$1,239.92",Completed
+ORD-00136,11/02/2025,North,Chloe Wong,Laptop Stand,2,39.29,Completed
+ORD-00099,2025-06-28,South,Ben Lee,Mechanical Keyboard,1,112.72,Completed
+ORD-00053,2025-05-30,North,Daniel Lim,Wireless Mouse,10,26.70,Completed
+ORD-00686,03-Sep-2025,West,Ben Lee,4K Monitor,1,392.70,Refunded
+ORD-00396,17-Oct-2025,South,Alice Tan,Wireless Mouse,1,31.14,Completed
+ORD-00167,20/06/2025,South,Alice Tan,4K Monitor,1,376.00,Pending
+ORD-00154,27-Dec-2025,East,Ben Lee,4K Monitor,1,$410.07,Pending
+ORD-00414,10-Nov-2025,North,Alice Tan,Mechanical Keyboard,10,USD 108.31,Completed
+ORD-01032,2025-06-14,South,Daniel Lim,USB-C Hub,2,52.07,Completed
+ORD-00793,2025/03/13,South,Emma Ng,Laptop Stand,10,37.26,Completed
+ORD-00240,2025/03/31,east,Emma Ng,Webcam HD,2,82.70,Completed
+ORD-00828,2025-03-03,West,Ben Lee,Webcam HD,2,83.20,Completed
+ORD-00129,07/03/2025,North,Emma Ng,Wireless Mouse,1,USD 28.61,Completed
+ORD-00798,2025-09-09,South,Emma Ng,Laptop Stand,2,36.86 ,Completed
+ORD-00801,19/06/2025,East,Chloe Wong,Laptop Pro 14,2,1382.48,Completed
+ORD-01182,07/26/2025,South,Alice Tan,USB-C Hub,3,47.43,Completed
+ORD-01053,01-Jan-2025,West,Alice Tan,Laptop Pro 14,5,USD 1314.31,Completed
+ORD-00014,20-Nov-2025,North,Alice Tan,Laptop Pro 14,2,1186.61,Completed
+ORD-00003,2025/06/22,East,Emma Ng,Laptop Air 13,1,USD 877.41,Completed
+ORD-00459,03/22/2025,West,Ben Lee,Wireless Mouse,2,26.60,Completed
+ORD-00980,10/21/2025, West ,BEN LEE,Webcam HD,5,77.12,Completed
+ORD-00337,2025/02/10,North,Chloe Wong,Laptop Stand,1,41.06,Completed
+ORD-00061,2025/07/29,South,Daniel Lim,Mechanical Keyboard,3,123.05,Completed
+ORD-00084,2025-03-08, North ,Ben Lee,4K Monitor,1,USD 367.87,Completed
+ORD-00557,27-May-2025,West,Ben Lee,Wireless Mouse,1,27.64,Completed
+ORD-01043,2025-01-13,North,Emma Ng,Webcam HD,1,71.73,Pending
+ORD-00637,04/09/2025,North,Chloe Wong,Laptop Pro 14,5,1280.14 ,Completed
+ORD-00493,10-Sep-2025,East,Daniel Lim,Laptop Air 13,5,860.09,Completed
+ORD-00306,10/12/2025,West,Alice Tan,Wireless Mouse,1,26.34,Completed
+ORD-01109,2025-01-20,South,Ben Lee,4K Monitor,10,421.90,Completed
+ORD-00817,2025/06/14,North,DANIEL LIM,4K Monitor,1,394.52,Completed
+ORD-00547,27-Oct-2025,west,Alice Tan,USB-C Hub,2,46.99,Completed
+ORD-00394,13/01/2025,South,Alice Tan,Wireless Mouse,10,29.52,Completed
+ORD-00516,2025-05-07,East,Alice Tan,4K Monitor,1,388.07,Completed
+ORD-00247,03/29/2025,North,Daniel Lim,4K Monitor,1,396.89,Completed
+ORD-00690,21/05/2025,south,Daniel Lim,USB-C Hub,1,48.28,Completed
+ORD-00643,2025-06-26,West,Alice Tan,Wireless Mouse,2,30.44,Completed
+ORD-01083,10/09/2025,East,Daniel Lim,Webcam HD,1,72.15,Refunded
+ORD-00390,14/04/2025,West,Daniel Lim,USB-C Hub,1,45.84,Completed
+ORD-00299,2025-11-13,East,Emma Ng,Laptop Stand,1,35.99,Completed
+ORD-00202,2025-10-03,East,Chloe Wong,Wireless Mouse,3,31.78,Completed
+ORD-00873,2025/05/20,East,CHLOE WONG,USB-C Hub,1,53.70,Completed
+ORD-00987,25-Sep-2025,South,Ben Lee,Webcam HD,2,75.56,Completed
+ORD-01158,30-Aug-2025,East,Ben Lee,usb-c hub,2,47.28,Refunded
+ORD-00031,2025/01/23,South,Alice Tan,Webcam HD,1,79.31,Completed
+ORD-00444,11-Feb-2025,South,Daniel Lim,Laptop Stand,2,40.15,Completed
+ORD-00150,2025/05/29,North,Chloe Wong,Laptop Pro 14,1,1246.62,Refunded
+ORD-00834,2025-04-29,south,Emma Ng,4K Monitor,1,USD 366.76,Completed
+ORD-01196,09/10/2025,West,Daniel Lim,Wireless Mouse,5,29.42,Pending
+ORD-00775,18-Feb-2025,East,Chloe Wong,Laptop Air 13,,953.64,Completed
+ORD-01174,2025-08-28,North,Ben Lee,Laptop Pro 14,1,1324.78,Completed
+ORD-00784,2025-06-06,West,Daniel Lim,Laptop Air 13,2,910.99,Completed
+ORD-01128,2025/10/30,North,Emma Ng,usb-c hub,10,46.69,Completed
+ORD-00192,13/08/2025,North,ALICE TAN,Laptop Stand,3,$35.62,Refunded
+ORD-00545,12/12/2025,south,Alice Tan,Webcam HD,2,$72.48,Completed
+ORD-01191,26/04/2025,East,Emma Ng,USB-C Hub,5,49.29,Completed
+ORD-00301,21-Sep-2025,North,Ben Lee,Laptop Air 13,1,839.20,Completed
+ORD-01116,2025-01-05,North,Ben Lee,Wireless Mouse,5,$28.96,Completed
+ORD-00735,04/09/2025,West,Emma Ng,Laptop Stand,1,42.63 ,Completed
+ORD-00832,2025-04-29,West,Daniel Lim,4K Monitor,10,$386.32,Completed
+ORD-00302,2025-08-11,east,Alice Tan,Laptop Air 13,1,813.37,Pending
+ORD-01125,2025/01/05,East,Alice Tan,Mechanical Keyboard,3,126.14,Completed
+ORD-00062,06/15/2025,North,Emma Ng,Laptop Air 13,5,964.61 ,Pending
+ORD-00700,2025-11-20,East,Daniel Lim,Mechanical Keyboard,3,109.08,Completed
+ORD-00890,02-Aug-2025,North,Chloe Wong,Laptop Pro 14,10,1253.44,Completed
+ORD-01160,20-Apr-2025,East  ,Alice Tan,USB-C Hub,3,45.05,Completed
+ORD-00292,2025-12-30,West,Emma Ng,Laptop Air 13,3,910.20,Refunded
+ORD-00359,2025-05-08,East,alice tan,Wireless Mouse,10,26.63,Completed
+ORD-00835,2025-10-20,West,Alice Tan,Webcam HD,10,79.33,Completed
+ORD-00706,2025/12/29,West,Chloe Wong,Laptop Air 13,2,$834.13,Completed
+ORD-00007,2025/06/11,WEST,Ben Lee,USB-C Hub,10,47.98,Completed
+ORD-00584,12/23/2025,South,Ben Lee,Laptop Pro 14,1,1289.31,Completed
+ORD-00036,2025/12/23,North,Daniel Lim,Laptop Stand,1,39.45,Completed
+ORD-01150,24-Feb-2025,South,Alice Tan,Mechanical Keyboard,2,117.74,Completed
+ORD-00284,2025-07-26,West  ,Daniel Lim,USB-C Hub,1,48.60,Completed
+ORD-01066,2025-09-22,East,Alice Tan,Laptop Stand,1,42.14,Completed
+ORD-00500,05-Jun-2025,East,Daniel Lim,Wireless Mouse,10,28.60,Refunded
+ORD-00741,2025/10/06,North,Daniel Lim,Laptop Air 13,10,899.60,Completed
+ORD-00668,05/08/2025,East,Daniel Lim,4K Monitor,1,434.61,Refunded
+ORD-00452,2025-09-01,East,Daniel Lim,Wireless Mouse,2,26.93 ,Pending
+ORD-01065,2025/12/17,WEST,Daniel Lim,Wireless Mouse,1,31.53,Completed
+ORD-00468,12-Sep-2025,North,Emma Ng,Wireless Mouse,,29.12,Completed
+ORD-01151,16-Aug-2025,East,Ben Lee,USB-C Hub,1,46.13,Completed
+ORD-00634,24/04/2025,North  ,Alice Tan,Webcam HD,3,$74.00,Completed
+ORD-00443,2025-02-05, West ,Chloe Wong,USB-C Hub,1,47.87,Completed
+ORD-00357,15/06/2025,North,Chloe Wong,Wireless Mouse,1,30.42,Completed
+ORD-00906,2025/01/04,West,Alice Tan,Laptop Pro 14,5,1394.36,Completed
+ORD-00063,2025/01/27,East,Daniel Lim,USB-C Hub,2,49.48,Completed
+ORD-00856,16-Oct-2025,South,Chloe Wong,Wireless Mouse,1,27.78,Completed
+ORD-00937,05/11/2025,North,Chloe Wong,Laptop Pro 14,1,1309.41,Completed
+ORD-00242,2025-06-21,South,Chloe Wong,Laptop Stand,1,$37.17,Completed
+ORD-00816,2025/06/01,East,Chloe Wong,Mechanical Keyboard,5,108.02,Completed
+ORD-00318,2025/07/05,East,Daniel Lim,Laptop Air 13,2,883.65,Completed
+ORD-00969,15/07/2025,West,Daniel Lim,usb-c hub,2,52.49,Completed
+ORD-01143,2025-10-05,East  ,Alice Tan,Laptop Air 13,2,972.06,Completed
+ORD-00048,2025/06/22,South,Chloe Wong,Laptop Pro 14,10,1390.18,Completed
+ORD-00836,2025-02-14,North,Alice Tan,Wireless Mouse,2,30.34,Completed
+ORD-00113,12-Nov-2025,South,Emma Ng,Laptop Pro 14,1,1174.04,Completed
+ORD-01147,2025-09-28,West,Chloe Wong,4K Monitor,3,369.97,Completed
